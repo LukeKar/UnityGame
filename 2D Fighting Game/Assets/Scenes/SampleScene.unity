@@ -152,7 +152,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
-  - {fileID: 1094317410}
+  - {fileID: 716708366}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &395402727
@@ -326,7 +326,7 @@ Transform:
   - {fileID: 1459267834}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1 &1094317409
+--- !u!1 &716708365
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -334,61 +334,61 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-  - component: {fileID: 1094317410}
-  - component: {fileID: 1094317415}
-  - component: {fileID: 1094317414}
-  - component: {fileID: 1094317413}
-  - component: {fileID: 1094317412}
-  - component: {fileID: 1094317411}
+  - component: {fileID: 716708366}
+  - component: {fileID: 716708371}
+  - component: {fileID: 716708370}
+  - component: {fileID: 716708369}
+  - component: {fileID: 716708368}
+  - component: {fileID: 716708367}
   m_Layer: 0
-  m_Name: Spongebob_1
+  m_Name: Goku
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!4 &1094317410
+--- !u!4 &716708366
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1094317409}
+  m_GameObject: {fileID: 716708365}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 12.42, y: -0.120000005, z: 0.022596372}
-  m_LocalScale: {x: 2, y: 2, z: 1}
+  m_LocalPosition: {x: 8.09087, y: 0.14646149, z: 0.022596372}
+  m_LocalScale: {x: 5, y: 5, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1157301893}
   m_Father: {fileID: 18824601}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1094317411
+--- !u!114 &716708367
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1094317409}
+  m_GameObject: {fileID: 716708365}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 39cb36c03053fa6418645161701dfb79, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  rb2: {fileID: 1094317413}
+  rb2: {fileID: 0}
   moveSpeed2: 0
   jumpForce2: 0
   GroundPoint: {fileID: 1157301892}
   whatIsGround:
     serializedVersion: 2
     m_Bits: 64
---- !u!114 &1094317412
+--- !u!114 &716708368
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1094317409}
+  m_GameObject: {fileID: 716708365}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: f7085fd2627dc2945b0b69ff1370b615, type: 3}
@@ -396,14 +396,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Character1: {fileID: 1459267833}
   flip: 1
---- !u!50 &1094317413
+--- !u!50 &716708369
 Rigidbody2D:
   serializedVersion: 4
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1094317409}
+  m_GameObject: {fileID: 716708365}
   m_BodyType: 0
   m_Simulated: 1
   m_UseFullKinematicContacts: 0
@@ -423,13 +423,13 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 4
---- !u!61 &1094317414
+--- !u!61 &716708370
 BoxCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1094317409}
+  m_GameObject: {fileID: 716708365}
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
@@ -455,26 +455,26 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -0.1771723, y: -0.020133197}
+  m_Offset: {x: 0.038658828, y: -0.032554828}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 1.2105184, y: 1.1400001}
-    newSize: {x: 1.2105184, y: 1.1400001}
+    oldSize: {x: 0.49, y: 0.500306}
+    newSize: {x: 0.49, y: 0.500306}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 0.64678884, y: 0.89034855}
+  m_Size: {x: 0.26618558, y: 0.3538093}
   m_EdgeRadius: 0
---- !u!212 &1094317415
+--- !u!212 &716708371
 SpriteRenderer:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1094317409}
+  m_GameObject: {fileID: 716708365}
   m_Enabled: 1
   m_CastShadows: 0
   m_ReceiveShadows: 0
@@ -509,12 +509,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 1703852528, guid: 4286f87d60ac27346a51a1de65c4857b, type: 3}
+  m_Sprite: {fileID: -1917161302, guid: 33458e7b37ab5824085eccdbaf932ebd, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 1.2105184, y: 1.1400001}
+  m_Size: {x: 0.49, y: 0.500306}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -1521,12 +1521,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1157301892}
   serializedVersion: 2
-  m_LocalRotation: {x: -0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.05, y: -0.5065, z: 0}
-  m_LocalScale: {x: 2.5, y: 2.5, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.039, y: -0.237, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 1094317410}
+  m_Father: {fileID: 716708366}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1310424206
 GameObject:
@@ -1766,7 +1766,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f7085fd2627dc2945b0b69ff1370b615, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Character1: {fileID: 1094317409}
+  Character1: {fileID: 716708365}
   flip: 1
 --- !u!114 &1459267836
 MonoBehaviour:
