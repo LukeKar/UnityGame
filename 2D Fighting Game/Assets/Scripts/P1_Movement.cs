@@ -5,6 +5,9 @@ using UnityEngine;
 public class P1_Movement : MonoBehaviour
 {
     public Rigidbody2D rb;
+    public Animator animator;
+
+
     [SerializeField] private float moveSpeed;
     [SerializeField] private float jumpForce;
     public GameObject GroundPoint;
@@ -23,10 +26,29 @@ public class P1_Movement : MonoBehaviour
     void Update()
     {
         isOnGround = Physics2D.OverlapCircle(GroundPoint.transform.position, 0.2f, whatIsGround);
+
         if (Input.GetButtonDown("Jump") && isOnGround) {
             rb.velocity = new Vector2(rb.velocity.x, jumpForce);
         }
+        
+        if (isOnGround == true){
+            animator.SetBool("Is_jumping", false);
+        }
+        else{
+            animator.SetBool("Is_jumping", true);
+        }
+
+
+        float moveInput = Input.GetAxisRaw("Horizontal");
         rb.velocity = new Vector2(Input.GetAxisRaw("Horizontal") * moveSpeed, rb.velocity.y);
+
+        if (moveInput != 0){
+            animator.SetBool("Is_walking", true);
+        }
+        else{
+            animator.SetBool("Is_walking", false);
+        }
+
         //theRB.velocity = new Vector2(Input.GetAxisRaw("Horizontal") * moveSpeed, theRB.velocity.y);
 
         
