@@ -1,0 +1,3427 @@
+fileFormatVersion: 2
+guid: 1da557b83eb64544f82bd380ca8747ea
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: testsanji_0
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 936
+        width: 21
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a0012e3f080b1a47b3b7333bbf6fbcd
+      internalID: -1245272692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_1
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 936
+        width: 21
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aade249b4a518704ab46b918858c44c8
+      internalID: -378857412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_2
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 936
+        width: 21
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4df5799615c7bc45a0f1a9c7a19294e
+      internalID: 1096385415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_3
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 936
+        width: 22
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45c2af28d9c9782488fc519c5f7ab7b4
+      internalID: 623129308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_4
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 936
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 898461e04f3640345beb212675ae6f6d
+      internalID: 164129666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_5
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 945
+        width: 47
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f34264bd5fc34943ad2cbc4c324ad69
+      internalID: -625667739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_6
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 937
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b055779d1ed3a446b098e7af35d9a2d
+      internalID: 666764552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_7
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 937
+        width: 25
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f08f501add676242a762ef522feb66f
+      internalID: 382928826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_8
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 937
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e747d2e2f53a2348bf8fc84b71a5a75
+      internalID: 821916369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_9
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 946
+        width: 47
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5be412bf0ba243040b6493b26dac0e6e
+      internalID: -1016094897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_10
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 857
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c03193eef811ffd49badea1dc8ee3bb1
+      internalID: -2016842502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_11
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 857
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 055e6c4d1277f5e4b8ea072b2ebbe47b
+      internalID: 419356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_12
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 861
+        width: 51
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8862cfebda0c64b4ab1c4ab2b856c4e0
+      internalID: -2037275020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_13
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 862
+        width: 51
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac34f62dce4c81e41ad9aa30c11510ec
+      internalID: -1590127209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_14
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 857
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c057471d98979d448a1462ca9607b765
+      internalID: -1082245364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_15
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 857
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 707d6b0529ed2fd448914c26a9576764
+      internalID: -872971545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_16
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 857
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 792eb3b2fffd9d047ae9297c1c1cd3cd
+      internalID: -34545850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_17
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 860
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d1d13aa4e819a84fbed71226ef7014d
+      internalID: -1034056495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_18
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 860
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9d6d7e99b21e8d47a87b51022b48489
+      internalID: 1490541222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_19
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 868
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67d4f87a4d13764409f4f0841dd1e3a3
+      internalID: 824316379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_20
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 789
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe9ce0d33bd66834fbcf700c4a7203f6
+      internalID: -649347705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_21
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 778
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea34b066cf0fe4f4d845f876df6e1660
+      internalID: -2102797666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_22
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 778
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 730ced7841a4c40479b306f5d870c18e
+      internalID: 2060906361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_23
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 778
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfd1178f030796448937d8fa06864d2e
+      internalID: -2081826039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_24
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 785
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ba0617ffa7238a43bc3ea69ebe029bc
+      internalID: 1005395855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_25
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 778
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53ae103fbc17b0c45846ac8afc8b8492
+      internalID: -1499984508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_26
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 778
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eed101419f638449954a7636d0b843a
+      internalID: -89277783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_27
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 778
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66f135529485cd348a6395290870c437
+      internalID: 887484663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_28
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 785
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c57ec9a3a8b93ae4fb669d6c3e81c62c
+      internalID: 675843966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_29
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 778
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca2849ddfee88684e99d61b9f922f027
+      internalID: -2144543734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_30
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 699
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b8d9e8fad5392e4bad8aee7391a082e
+      internalID: 1280777958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_31
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 720
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2b7067b1d8db6a4db0bd4a8d6c7894b
+      internalID: -1844278583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_32
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 731
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 360c4983491d5c74c80f6df1d3219db6
+      internalID: -1890032638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_33
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 706
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 478e32cc41394a54689fbd8908545df9
+      internalID: -634593602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_34
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 732
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37ced0a42e5ca3345bbf8fcf1bc1d4c2
+      internalID: -1515991419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_35
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 707
+        width: 53
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb21e55094b38114cb0a74a1722467d4
+      internalID: -1587762755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_36
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 710
+        width: 53
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa62eba92b84a347af3c551dd621464
+      internalID: 1499543011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_37
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 708
+        width: 53
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1789d3f4aff5f5749ad52745761c9542
+      internalID: -991155219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_38
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 712
+        width: 53
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 117b98a98b994714daafdbf52a4c4a3b
+      internalID: 1491627710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_39
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 699
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 009a137db2e2e2c45b2ef69ef05db8bd
+      internalID: -2146518435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_40
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 712
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26bf4c2fc3082404baad0ac054b41c8e
+      internalID: -2087254620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_41
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 715
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b7f045129d4db44dbed6d26d9e6d772
+      internalID: 1734637253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_42
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 714
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be41503661e40ce4bb2fd76f4648f39d
+      internalID: -328064542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_43
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 713
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b534dbc4bc0c35e479bb14a255769163
+      internalID: -445805342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_44
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 714
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d0cce0c208b7b745aa79d1d009c5610
+      internalID: 749986110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_45
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 699
+        width: 54
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bacb73dd0e1721542bcf9f3dbdb39d4c
+      internalID: 1338219686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_46
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 707
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfff6e132717d6941b40809d9562e01b
+      internalID: 1494632671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_47
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 700
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a9d3bf455188534d999ee97600c3e31
+      internalID: 751996489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_48
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 620
+        width: 25
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9022969f4115e074e9b765c91ef7a7be
+      internalID: -431439690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_49
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 619
+        width: 19
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31303aaf344ab32488c9b20224c72f99
+      internalID: 466844798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_50
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 619
+        width: 19
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7449fa7127567c84b9745caf7dbeacbf
+      internalID: -556494559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_51
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 619
+        width: 18
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49d1e43da0b01c14fb44ae65bfc79ed8
+      internalID: -2039491186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_52
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 622
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64308677ebf49f74da35b0b609b92fe7
+      internalID: 1444195369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_53
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 635
+        width: 50
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e53e5c995aa2d6242873dadd64bd6ae0
+      internalID: -587706233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_54
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 630
+        width: 32
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04a9e76c459b99d4ba04431d771b59cd
+      internalID: 1406762772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_55
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 618
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f68c3e8b9a603274f97e86c718a1ca12
+      internalID: -229067528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_56
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 619
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d412172888ada0f4db61950c3793fc12
+      internalID: -27035293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_57
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 619
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fccc87a3cd3dcfc4bb318d9d09e5a775
+      internalID: -33549352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_58
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 547
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb7a4b907749be6428c3ff73e93ef5a9
+      internalID: 1635010573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_59
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 537
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f58a0ae32bc515a46ab9b340ab2ab005
+      internalID: -4336907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_60
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 539
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d28202f16a20dac47a6597daf1dccd89
+      internalID: 1278721195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_61
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 541
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7502f1c743f0fa14ba8af2969bf18d4f
+      internalID: -380741727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_62
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 553
+        width: 51
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5fc26a9d54c2de48b363e18a7a96f0f
+      internalID: 1801549633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_63
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 543
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88d838a484677934ca894b39fe6198c0
+      internalID: -973035277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_64
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 541
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99e22d10b306e324f83b38646fcb3ee4
+      internalID: 353628835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_65
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 541
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5242e0d8e05b7dc4a9777eeaaead5752
+      internalID: -508383473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_66
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 541
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6398207d281cd2439c587955b010d7e
+      internalID: -1528253010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_67
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 541
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff3bf0d0f14f6c54081cb3aab096a3d5
+      internalID: -215247929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_68
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 462
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae4ba82e9b109a3488bff4cdc07f6160
+      internalID: -2132087257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_69
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 462
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c53084b1718e484dab160d51e6f2d28
+      internalID: 204466555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_70
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 462
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a6c7004bdbc22e4fa3ed3b5dfb90857
+      internalID: 997564768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_71
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 462
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 624c8c799f5ae4e4abe21ac7a3a188b8
+      internalID: -1229054873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_72
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 462
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75cb396d4901e81428bd3b68167f2bdb
+      internalID: 1672578908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_73
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 462
+        width: 24
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99c46c92f83e01746a6311832b22dd8d
+      internalID: 1187530790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_74
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 462
+        width: 21
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88cd1424ed03e0e4793918f3c255a633
+      internalID: -883456839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_75
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 462
+        width: 25
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 776fd1d2aa458a24184cd8a1b052c2e5
+      internalID: -1657505097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_76
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 462
+        width: 35
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dbd76dd997d35b43abfc129377fa64d
+      internalID: -570587902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_77
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 462
+        width: 25
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54d7326a36211fe41a134bebbf3e0dbf
+      internalID: 110453476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_78
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 383
+        width: 37
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32f1a5a478ae82a4cb847e76d8c9122b
+      internalID: 920093889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_79
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 383
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a24c7968a38a5b48a57cf280300026c
+      internalID: -858644957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_80
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 383
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7418d8763a95514cb0c6463a3e33472
+      internalID: -570921585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_81
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 383
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b478f272d69cee2469abd088d2fcd93d
+      internalID: -697773295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_82
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 383
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e0d873ccfc70c54ebc56aa6f8ca39ef
+      internalID: 528565408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_83
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 383
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50bd6184c15dd7f4f8ad02181e646091
+      internalID: 601725023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_84
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 384
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfe59677580d4a145b04aa3046b947b3
+      internalID: -689341185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_85
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 384
+        width: 43
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c1d83ae0f977c442a4b0cfbb2574fb2
+      internalID: -108475692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_86
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 384
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 332949979e990084f8c987d29528d68d
+      internalID: -139210356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_87
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 384
+        width: 51
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 532ebadb6d0c3c9478a60dd6ffcc71d9
+      internalID: 228829043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_88
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 304
+        width: 41
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 477ea4176bfc9054b85f3d2cfb7e346a
+      internalID: 1096947986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_89
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 304
+        width: 62
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab098decb127b634fa258cf0c14b5009
+      internalID: -325163218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_90
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 304
+        width: 66
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11a0a297abe77d3478454000ab5e0a88
+      internalID: -1565679050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_91
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 357
+        width: 61
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee8325d3178dd444b9ae25202a1c9a80
+      internalID: -1232138750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_92
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 304
+        width: 76
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d19e2643f1eceb478e0da806214b0e9
+      internalID: 1221885372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_93
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 304
+        width: 79
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21dff8e6761c3ce4591cd991b23188cb
+      internalID: 148311079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_94
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 304
+        width: 62
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 392d74eac858a16419e81a96cd101ed0
+      internalID: 1273810570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_95
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 351
+        width: 28
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87df2b5a0b0d88e448fb875e5347afa8
+      internalID: 1824301737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_96
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 304
+        width: 63
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fcdabea51b181645bdd90d016d032df
+      internalID: 445263823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_97
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 353
+        width: 65
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b494d14503c45df4d9b1fb56b568c19c
+      internalID: -1442638131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_98
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 305
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4cfbe7adf32a15448d8b93b93a4242f
+      internalID: 991267442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_99
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 304
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 114ea3472f5224344a7e3fd55bc6258b
+      internalID: -1650936530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_100
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 318
+        width: 41
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e98ada69a8111a4ea6d79838453ebcc
+      internalID: 758164375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_101
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 338
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7c6b52f1049c1145a731ad34a27c035
+      internalID: 1565632157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_102
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 339
+        width: 33
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad1df0786c756c541a9c31595edae899
+      internalID: 1378638916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_103
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 225
+        width: 23
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc7c6a4ccac488047b06f23c154c88ee
+      internalID: -1839916689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_104
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 227
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d22466c659d1f4b8233715af81c3bb
+      internalID: 1564554044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_105
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 225
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09014a5c0ac4bc84ca766f3fdba7937b
+      internalID: 1235756881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_106
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 225
+        width: 21
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b7e01e8f55a2a548948bb9e8437fc29
+      internalID: 338084266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_107
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 225
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04876e6c59d637c40a29bd6aa8cbddcd
+      internalID: -841508041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_108
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 225
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8aac37ec0c6cd748820da63fac7de96
+      internalID: 1182610720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_109
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 225
+        width: 54
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe869fae8eae6c64e81e61ba25616893
+      internalID: -499721697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_110
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 225
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cc25ac782c6afd41a19c005ea1716da
+      internalID: -812759020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_111
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 225
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72f95475ba0b40a428e6fb0ea3613ef7
+      internalID: -1985729328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_112
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 225
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97bda590a8934074ca0b6dbc9a90a4a7
+      internalID: -636722134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_113
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 146
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2424855a455fb0948965e942de2dbc96
+      internalID: -1116092997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_114
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 146
+        width: 41
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cc72abb5d3e9dd42afc696e770c3ecb
+      internalID: 1128572205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_115
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 146
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a03f8952bec38f49a9524a367160c19
+      internalID: 929133552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_116
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 152
+        width: 59
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c02736c850cf2304eb9270a69744ec70
+      internalID: 430808390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_117
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 152
+        width: 62
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a3f6a2c259b2f74ba5a8c13c09f92fc
+      internalID: 301495036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_118
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 152
+        width: 60
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb32c80b5f39f664b84768ed0de40e0a
+      internalID: 548242822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_119
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 152
+        width: 61
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8efd187cda4d525499b74213003ce42e
+      internalID: -313472808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_120
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 152
+        width: 60
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fea180f1070cb44cbcc27f7ca18b248
+      internalID: 2112945505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_121
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 152
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 068f548d8e27237439705539cc257b96
+      internalID: 1891140851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_122
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 179
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c635b1dac7975048a2045cd2d025b2f
+      internalID: 1685535181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_123
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 146
+        width: 42
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9e384aa0350c084297591eeadf8138c
+      internalID: -1049889306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_124
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 174
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ccf1cd5fd968184590ea5c007b29217
+      internalID: -643999033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_125
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 174
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f896e16e81ba9740a5ab5661f00705f
+      internalID: 902877877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_126
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 73
+        width: 54
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86be16a64bc946c4e8d08303d3cb650d
+      internalID: 909210983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_127
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 69
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7f078b504914b241a5caa32603c3239
+      internalID: 142235369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_128
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 67
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ce8b3e612ecd5443b51868f42e9f1b0
+      internalID: -983596232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_129
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 67
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a13ec9f0b1c5c846984fe7a8712a0cb
+      internalID: 1869591795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_130
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 67
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebe8620c77758cd489aed18ce1698acf
+      internalID: -35969697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_131
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 67
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b02611ca031a71f4f963e6705eb6a3e6
+      internalID: 1534336729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_132
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 67
+        width: 19
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64bdae96f884644409f8bcb396d2f167
+      internalID: -271267184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_133
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 78
+        width: 8
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fe78864c545b3b4e8c091c3bb6a5542
+      internalID: -1248231137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_134
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 67
+        width: 17
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1b8346278f27e742ab26d38f7a88ff0
+      internalID: 2147291542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_135
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 67
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43e02c2da02429d4f9a90319b7b92875
+      internalID: -403911858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_136
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 67
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0ede0f7532c63545a8d1a093c817c11
+      internalID: -530741208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_137
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 0
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff5a948b5893f941bbef0cc14507249
+      internalID: 505726546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_138
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 0
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a73e8f627b61dfd43809f39a0d53797d
+      internalID: 1842856202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_139
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 0
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 457991f81cb69e94da03ec6f11ee840e
+      internalID: 318408685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_140
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 0
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35bdaad39ee303e4b94f99a2e872ed24
+      internalID: 1505064375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_141
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 086b1c3e1e9bfe24ead33ec1e48f7024
+      internalID: 1399676969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_142
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 0
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a26e154fa7304746abf89e2fee0602a
+      internalID: 468782329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_143
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 0
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05638f571a70929408c0bd25c6fcee88
+      internalID: 1936542773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_144
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 0
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af93cb020a9010141ae133f81a9fb5d8
+      internalID: 245853166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_145
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 9
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2df7cf870e504c42b57b5c90f0443bf
+      internalID: 764244228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_146
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 0
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16e8eeac6fad6c248897dad3cf67eb57
+      internalID: 1621470871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_147
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 13
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a8045a8b2460e640bb1137659f8d67d
+      internalID: 1351834344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_148
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 0
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb90fac31ba76b24e9d3a3ccb9d3a554
+      internalID: 1940301482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testsanji_149
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 1
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88006c0c58f7dbb4fadc043a873ddd41
+      internalID: 1572103958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      testsanji_0: -1245272692
+      testsanji_1: -378857412
+      testsanji_10: -2016842502
+      testsanji_100: 758164375
+      testsanji_101: 1565632157
+      testsanji_102: 1378638916
+      testsanji_103: -1839916689
+      testsanji_104: 1564554044
+      testsanji_105: 1235756881
+      testsanji_106: 338084266
+      testsanji_107: -841508041
+      testsanji_108: 1182610720
+      testsanji_109: -499721697
+      testsanji_11: 419356
+      testsanji_110: -812759020
+      testsanji_111: -1985729328
+      testsanji_112: -636722134
+      testsanji_113: -1116092997
+      testsanji_114: 1128572205
+      testsanji_115: 929133552
+      testsanji_116: 430808390
+      testsanji_117: 301495036
+      testsanji_118: 548242822
+      testsanji_119: -313472808
+      testsanji_12: -2037275020
+      testsanji_120: 2112945505
+      testsanji_121: 1891140851
+      testsanji_122: 1685535181
+      testsanji_123: -1049889306
+      testsanji_124: -643999033
+      testsanji_125: 902877877
+      testsanji_126: 909210983
+      testsanji_127: 142235369
+      testsanji_128: -983596232
+      testsanji_129: 1869591795
+      testsanji_13: -1590127209
+      testsanji_130: -35969697
+      testsanji_131: 1534336729
+      testsanji_132: -271267184
+      testsanji_133: -1248231137
+      testsanji_134: 2147291542
+      testsanji_135: -403911858
+      testsanji_136: -530741208
+      testsanji_137: 505726546
+      testsanji_138: 1842856202
+      testsanji_139: 318408685
+      testsanji_14: -1082245364
+      testsanji_140: 1505064375
+      testsanji_141: 1399676969
+      testsanji_142: 468782329
+      testsanji_143: 1936542773
+      testsanji_144: 245853166
+      testsanji_145: 764244228
+      testsanji_146: 1621470871
+      testsanji_147: 1351834344
+      testsanji_148: 1940301482
+      testsanji_149: 1572103958
+      testsanji_15: -872971545
+      testsanji_16: -34545850
+      testsanji_17: -1034056495
+      testsanji_18: 1490541222
+      testsanji_19: 824316379
+      testsanji_2: 1096385415
+      testsanji_20: -649347705
+      testsanji_21: -2102797666
+      testsanji_22: 2060906361
+      testsanji_23: -2081826039
+      testsanji_24: 1005395855
+      testsanji_25: -1499984508
+      testsanji_26: -89277783
+      testsanji_27: 887484663
+      testsanji_28: 675843966
+      testsanji_29: -2144543734
+      testsanji_3: 623129308
+      testsanji_30: 1280777958
+      testsanji_31: -1844278583
+      testsanji_32: -1890032638
+      testsanji_33: -634593602
+      testsanji_34: -1515991419
+      testsanji_35: -1587762755
+      testsanji_36: 1499543011
+      testsanji_37: -991155219
+      testsanji_38: 1491627710
+      testsanji_39: -2146518435
+      testsanji_4: 164129666
+      testsanji_40: -2087254620
+      testsanji_41: 1734637253
+      testsanji_42: -328064542
+      testsanji_43: -445805342
+      testsanji_44: 749986110
+      testsanji_45: 1338219686
+      testsanji_46: 1494632671
+      testsanji_47: 751996489
+      testsanji_48: -431439690
+      testsanji_49: 466844798
+      testsanji_5: -625667739
+      testsanji_50: -556494559
+      testsanji_51: -2039491186
+      testsanji_52: 1444195369
+      testsanji_53: -587706233
+      testsanji_54: 1406762772
+      testsanji_55: -229067528
+      testsanji_56: -27035293
+      testsanji_57: -33549352
+      testsanji_58: 1635010573
+      testsanji_59: -4336907
+      testsanji_6: 666764552
+      testsanji_60: 1278721195
+      testsanji_61: -380741727
+      testsanji_62: 1801549633
+      testsanji_63: -973035277
+      testsanji_64: 353628835
+      testsanji_65: -508383473
+      testsanji_66: -1528253010
+      testsanji_67: -215247929
+      testsanji_68: -2132087257
+      testsanji_69: 204466555
+      testsanji_7: 382928826
+      testsanji_70: 997564768
+      testsanji_71: -1229054873
+      testsanji_72: 1672578908
+      testsanji_73: 1187530790
+      testsanji_74: -883456839
+      testsanji_75: -1657505097
+      testsanji_76: -570587902
+      testsanji_77: 110453476
+      testsanji_78: 920093889
+      testsanji_79: -858644957
+      testsanji_8: 821916369
+      testsanji_80: -570921585
+      testsanji_81: -697773295
+      testsanji_82: 528565408
+      testsanji_83: 601725023
+      testsanji_84: -689341185
+      testsanji_85: -108475692
+      testsanji_86: -139210356
+      testsanji_87: 228829043
+      testsanji_88: 1096947986
+      testsanji_89: -325163218
+      testsanji_9: -1016094897
+      testsanji_90: -1565679050
+      testsanji_91: -1232138750
+      testsanji_92: 1221885372
+      testsanji_93: 148311079
+      testsanji_94: 1273810570
+      testsanji_95: 1824301737
+      testsanji_96: 445263823
+      testsanji_97: -1442638131
+      testsanji_98: 991267442
+      testsanji_99: -1650936530
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
