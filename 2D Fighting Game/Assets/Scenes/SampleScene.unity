@@ -269,7 +269,7 @@ Camera:
   m_Enabled: 1
   serializedVersion: 2
   m_ClearFlags: 2
-  m_BackGroundColor: {r: 0.2733179, g: 0.6525403, b: 0.6981132, a: 0}
+  m_BackGroundColor: {r: 0.48157534, g: 0.8490566, b: 0.4517622, a: 0}
   m_projectionMatrixMode: 1
   m_GateFitMode: 2
   m_FOVAxisMode: 0
@@ -338,6 +338,7 @@ GameObject:
   - component: {fileID: 563679685}
   - component: {fileID: 563679684}
   - component: {fileID: 563679683}
+  - component: {fileID: 563679687}
   m_Layer: 0
   m_Name: Character2
   m_TagString: Player2
@@ -504,6 +505,20 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &563679687
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 563679681}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f7085fd2627dc2945b0b69ff1370b615, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Character1: {fileID: 863313114}
+  flip: 1
 --- !u!1 &702696871
 GameObject:
   m_ObjectHideFlags: 0
@@ -549,6 +564,7 @@ GameObject:
   - component: {fileID: 863313118}
   - component: {fileID: 863313117}
   - component: {fileID: 863313120}
+  - component: {fileID: 863313121}
   m_Layer: 0
   m_Name: Character1
   m_TagString: Player1
@@ -715,6 +731,20 @@ MonoBehaviour:
   whatIsGround:
     serializedVersion: 2
     m_Bits: 64
+--- !u!114 &863313121
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 863313114}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f7085fd2627dc2945b0b69ff1370b615, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Character1: {fileID: 563679681}
+  flip: 1
 --- !u!1 &1141491820
 GameObject:
   m_ObjectHideFlags: 0
