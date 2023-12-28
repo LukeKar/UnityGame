@@ -1,0 +1,6331 @@
+fileFormatVersion: 2
+guid: ccd4871c6b8916b4bab78b535e1b4bce
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sanji attacks_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 2082
+        width: 39
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5db6311112c0cc34eb064ee1e195435f
+      internalID: 946528936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_1
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 2082
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28e992fe9465e05499da88125689c28d
+      internalID: 1266328243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_2
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 2082
+        width: 38
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e1741a063534f4191a459ed7fd3064
+      internalID: 1781342835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_3
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 2082
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9140ecef35ffc7041a188ad1e29eb5bb
+      internalID: -1935417187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_4
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 2082
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5f7ad38a1bd55847bdb5d4dc998cfef
+      internalID: 286177513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_5
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 2082
+        width: 36
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe6d8df7e75eb094cb1984a981d1c4cf
+      internalID: 1261222105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_6
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 2083
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47700ff1b7cb2a2478699e5a4c05c0d9
+      internalID: 291007936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_7
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 2083
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 837887ed53f668f4f9283ced0f482ce2
+      internalID: 273345006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_8
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 2083
+        width: 53
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16c83f9c9cab8f6499faedda01e6e100
+      internalID: -113664775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_9
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 2083
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6885d1f8e76dc384db095ba0f4fa3851
+      internalID: -1429209306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_10
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 2004
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 924211886d3d8e9479a087a5f365d200
+      internalID: 1730683023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_11
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 2003
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f1e83848b414d44a8b6b52d6d3a457c
+      internalID: -193381332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_12
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 2017
+        width: 43
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc70503837a624646adc72bb1487cd8e
+      internalID: 313613477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_13
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 2003
+        width: 43
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 584011495a0e37b43990f43f4cd205fd
+      internalID: 1914083615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_14
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 2003
+        width: 64
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 052ba7a0d252323409a9b4d22ef78b6c
+      internalID: -423543017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_15
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 2003
+        width: 77
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfa268dd58533e44b8d75c6fcbc73949
+      internalID: -555683431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_16
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 2003
+        width: 78
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf6561d3a426b44e9fe546ac23899a9
+      internalID: -1557937501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_17
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 2003
+        width: 81
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be7d5400bb003ff459cab3e991fef627
+      internalID: 1014136708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_18
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 2003
+        width: 79
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75bc458327d5a3e4fa92f6268dcf291d
+      internalID: 1287408186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_19
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 2003
+        width: 74
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a878f9b9a1e05374da06c6435286d692
+      internalID: -1636149452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_20
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1924
+        width: 25
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8429a99e2c4f40040aa6749b94fc0ad6
+      internalID: 384419987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_21
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 1926
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7a08b250bcf49044beaafd275c313a1
+      internalID: -1138584011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_22
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 1924
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fae433fbc5be6448b09279de2c89d4b
+      internalID: -1267975247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_23
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1924
+        width: 23
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d7f5a68d10977b4993f1b1554be5f45
+      internalID: 2075944867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_24
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1924
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2bc36497a4cb084f8d9675a877c3948
+      internalID: 1748230467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_25
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 1924
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17024fd913648e24db69c6a5375fd115
+      internalID: 688186718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_26
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 1924
+        width: 56
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 178a4b895b0037e4aaf9160718275aeb
+      internalID: 2090496731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_27
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 1924
+        width: 52
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4448592c3a0a80b4e9992c5b75c3c01d
+      internalID: 932631206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_28
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 1924
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff6519e1c44ccad4babee92e2396f5a0
+      internalID: 1372134154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_29
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1924
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c5ef3a14ea532b4fbd01b336fb21c5b
+      internalID: -915533645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_30
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1845
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa23aeecabac946439227986038c8325
+      internalID: -1240380626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_31
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1845
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 961e90ec953239747a8783b9e598f7d2
+      internalID: 573514657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_32
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1845
+        width: 43
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 895041690aea268498f5ab522639180e
+      internalID: 1012752671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_33
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1845
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37b5a19f08a9ed44084bba0c13c22120
+      internalID: 1397119070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_34
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 1851
+        width: 61
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdab151ca45784c4f858ac66c8b9bf36
+      internalID: -1128411954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_35
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 1851
+        width: 67
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ad783ea3b5396549ae38b66392527c0
+      internalID: -1072897725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_36
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 1851
+        width: 62
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed448639cfb7d284b9de253b685bd508
+      internalID: -1405222189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_37
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 1851
+        width: 63
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddc4618c83ea7b345859712c50c25cb7
+      internalID: -1846029331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_38
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 1851
+        width: 65
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23276cc602827eb44a3cf4ec5a614735
+      internalID: -1028081429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_39
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 1851
+        width: 64
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db6610779c5c7b4092ee74301d18710
+      internalID: -2085233542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_40
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1772
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5d020f8b8ed6bd45af2edca5cb682a7
+      internalID: 1015085977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_41
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 1767
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f5357630c905a649a334d4b6f861ae2
+      internalID: 2090348614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_42
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1765
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deff85c39ff2a4347a4286a9313c005a
+      internalID: -1983844680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_43
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 1765
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15e702529651bf5488991d91c0f2eb61
+      internalID: 107804144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_44
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1765
+        width: 26
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ba7cba8aff2dc94084ff6b32a0c6afa
+      internalID: 1450951632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_45
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 1765
+        width: 27
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd9149db87e7f0e4b812d1f82420939f
+      internalID: 1311555148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_46
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 1765
+        width: 32
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e6bb31cfba98fd42b1a568a90669731
+      internalID: 1204748528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_47
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1765
+        width: 19
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83833d028b3abf94f9c157853ce0c9de
+      internalID: -251330768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_48
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 1765
+        width: 38
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39f7f53ec9f79e24285018e68b604701
+      internalID: 1761008305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_49
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 1765
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7193910485c9d6f45b428781f8226bf2
+      internalID: 1638346101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_50
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1688
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f010645c9b8183747a92c3c17b84f059
+      internalID: -476559834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_51
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1688
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fee416f61375054ab6740b9a2548785
+      internalID: -2079969994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_52
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 1688
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c0e00073a2a4e44b92ee31140969743
+      internalID: -840031675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_53
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 1691
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a35a3e4743f30af40bdb9c26444d2296
+      internalID: 496406498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_54
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1693
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2772fb0869db26242befd87d9bbd57a2
+      internalID: 41812799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_55
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 1693
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b40f47eeb0d30d94cb078890cb6cd713
+      internalID: -1796228460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_56
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 1687
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eeac507c73ce354ca80bc26c38f6715
+      internalID: -623048871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_57
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 1687
+        width: 31
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c93f84a57cb6df4792d81be02cbd396
+      internalID: 2038543602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_58
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 1687
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d875bcdf1da062f4fb5326e71cb27c1e
+      internalID: 437109050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_59
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 1687
+        width: 31
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0578a07476eb3749b98ffa4ea39b658
+      internalID: 1656798176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_60
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1608
+        width: 39
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d417b3f597f03d4bb6e32918e75d173
+      internalID: 346840327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_61
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1608
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 965924ce20777824db0368a9854eab1c
+      internalID: -1624281978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_62
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1608
+        width: 59
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daadfe7828d3f9a4c8e4171a9f656f95
+      internalID: 418135070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_63
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 1608
+        width: 58
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 223ac4f5e1519d046bda029c3da274f5
+      internalID: 1605659049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_64
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 1608
+        width: 59
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9faa402a69314f1499d8de0c10c67870
+      internalID: -107285833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_65
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 1608
+        width: 58
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 696a5e3c8ad98ed4cbfcee7c1d08e438
+      internalID: -817034037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_66
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 1608
+        width: 54
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aa10a9dd7312e644a98a6c3710fd254
+      internalID: -427238539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_67
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 1608
+        width: 51
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 505dfe4d280129246935cd01106aa19a
+      internalID: -1076298436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_68
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 1608
+        width: 63
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3badcbb019f0c3248a074f3e9e08e221
+      internalID: 1798984007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_69
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 1608
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3656fc19bab24ea4bb30a4f5d2b2dcb8
+      internalID: -247652234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_70
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1529
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 183c0be1e2465d24dac3a60bd1f4d287
+      internalID: -312409857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_71
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 1529
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 332a41880676707469d6c5453a4595df
+      internalID: -543905958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_72
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1531
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a4dd78afb652745836ed074e9b6ea9
+      internalID: 1701650841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_73
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 1530
+        width: 39
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ea9fd8f3f6ff0240a502803eccb8250
+      internalID: 747226141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_74
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1531
+        width: 34
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b335059a18db3a340ab60661fb338d11
+      internalID: -1956907983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_75
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 1537
+        width: 55
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7197bd970dcc6144197701b3bb31b38a
+      internalID: -2128372755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_76
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 1530
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 516ca615477b9964eadf7db11646d4c5
+      internalID: 1626393250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_77
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1531
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7e71a48db285b3489d524fa0b0476b4
+      internalID: 2047213009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_78
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 1533
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b1dfdeb2f14c44c8dc9f6eb08743f5
+      internalID: -1201414359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_79
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 1531
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5a797178f28f6948aa9350c76bdd9bb
+      internalID: -263685039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_80
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1453
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7778e9adf5312e84f8d5e9bd021a6797
+      internalID: -44260241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_81
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 1456
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fb9770c1a5029d4692b3e267fd6fa97
+      internalID: -1339079367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_82
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1453
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10d46ba0098eb6942a79e4ba731f7f0e
+      internalID: 314366760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_83
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 1451
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 120ff57038c492b489b431403654a186
+      internalID: 736375445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_84
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1450
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd3dbf10ec52ef84e8e444e449df8172
+      internalID: 1580265200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_85
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 1450
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3a4901606e9ee240a7787c3532fcd47
+      internalID: 650332066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_86
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 1464
+        width: 43
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fd093ad99eae0248adbb9ab97b5cbb0
+      internalID: 1223724707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_87
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 1450
+        width: 45
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad7e8a780fb2e4c4dbc5edd409c93276
+      internalID: 138287115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_88
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 1450
+        width: 64
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03bc02ed05520064dbd589f490cf6fdb
+      internalID: -463474448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_89
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 1450
+        width: 77
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b87926cfb9fad84b91ae4dcb4f6eb53
+      internalID: -86027898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_90
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1371
+        width: 78
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60b8bc038c4a0de4680ddbf931f43bca
+      internalID: -754175557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_91
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1371
+        width: 81
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f2586665b421f34481a7f3cfeee565e
+      internalID: 201257070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_92
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1371
+        width: 79
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b772f827e1a7c364e84dd9bcae050a47
+      internalID: -1257928019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_93
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 1371
+        width: 74
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd1ad056efab56f4088c5c650f61a634
+      internalID: 804018607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_94
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1371
+        width: 25
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f121f68a5beb8224aa4f5d3b082fd775
+      internalID: -175100300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_95
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 1373
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77f4c323135d644488f47b59b915317e
+      internalID: -600409815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_96
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 1371
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9816a0aed0920884a9abcea4b718aed8
+      internalID: 784834785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_97
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 1388
+        width: 49
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c46d11a3420b1684198bdc4e00331043
+      internalID: -1579879435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_98
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 1365
+        width: 48
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17ff1a8df177ecd4c9cae360a1135979
+      internalID: -854163724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_99
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 1388
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f5e70f699519549b6446d46ce6eaa1
+      internalID: -1244689695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_100
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 1369
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98ae3672649faa7428792decd309ef9a
+      internalID: -671778772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_101
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 1397
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 459852374a0486847bbc2aada9f73c5c
+      internalID: 303540721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_102
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 1387
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d37e379127811cf468e896161a9ced9b
+      internalID: 1930608116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_103
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1386
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 885b113a88af7df4db2487f88b0cf962
+      internalID: 1367576449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_104
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1291
+        width: 44
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 916ee5c9bc8423f41b9be3680565aa3a
+      internalID: 1401631883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_105
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1292
+        width: 23
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 880d26e4fce37074d8f486b7d0808515
+      internalID: -594251661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_106
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 1292
+        width: 24
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aa8277032661fe44848410ccf2ddc2c
+      internalID: 1699465403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_107
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1292
+        width: 23
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79f27e104fa140748a23c63ae3f655ac
+      internalID: 1861047169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_108
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1292
+        width: 26
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42073394bbe610f4db877b6f7ca7e786
+      internalID: 622785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_109
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 1292
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cedec1d69c79ba948898e7ba176bc5f3
+      internalID: 1459317396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_110
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 1301
+        width: 49
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a672b21cb2545f4cadd38bf73d8c0d1
+      internalID: -217190080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_111
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 1293
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1ab2d5f454e209478c0bb4c1c427d3e
+      internalID: 491142825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_112
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 1293
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 202e4c5fd286e7744834496824515924
+      internalID: -54773951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_113
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 1293
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c86b1e2681e908746befbe61f11faf00
+      internalID: -1220478075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_114
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1223
+        width: 49
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 445f05c6611ff8a4f912e47500385e2b
+      internalID: -391555935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_115
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 1213
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67cfe4d2c7981a7419872a0f68f102d3
+      internalID: -1582616951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_116
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 1213
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb4e684c6515c334287aeff814123add
+      internalID: 1274847850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_117
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 1217
+        width: 54
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b702843b636edb4e8e2747550a31f4e
+      internalID: -378752301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_118
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 1218
+        width: 54
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f359775f6de4c34d95e351dcd3b45ff
+      internalID: -1936938915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_119
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 1213
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b7b8637a541e1a49b5e47f905555fa6
+      internalID: 403110019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_120
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 1213
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc64b567f38e0474ea6310a4eeb37a76
+      internalID: -15717676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_121
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 1213
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e378e854dfdf5254cab2af8054d5ba92
+      internalID: 1784269906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_122
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 1215
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23687514d7260fd44a1d4f9074f512ff
+      internalID: 1714708260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_123
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 1216
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59e24cceb6044cb47815b6afe887f93a
+      internalID: -122827969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_124
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1145
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b590edbff9ca56f48b3c99b24f6286e1
+      internalID: 1743654700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_125
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 1145
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84c818a3db5a0cb4f928b44181aa12e9
+      internalID: 1589760942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_126
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 1134
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d41dd32efc478540953e0eb487b341e
+      internalID: -1704766637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_127
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1134
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95824a85475d3544fb0c9bdd6aa47673
+      internalID: 2085421372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_128
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1134
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1be10a6abd235de40b135f0d90f8d268
+      internalID: 1122717007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_129
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 1141
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c9e27514f7ef85429cbe7a92c2b6589
+      internalID: -547564632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_130
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 1134
+        width: 33
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f071160a9293d084cace9fbaf75ea146
+      internalID: 602498825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_131
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1134
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afb755ea47cded746a0205333595ec00
+      internalID: 1517457627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_132
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 1134
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 747b534121986ac44a1772eea5a65642
+      internalID: -415960121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_133
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 1141
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c610326604521f4781a4df5e715fb6d
+      internalID: -992493603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_134
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1054
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2e8b7619ebbfd64ea6cf3128528e981
+      internalID: -1345773468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_135
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1054
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0b5fec349d03ee4daa8b4ea1b9b3769
+      internalID: -1362319365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_136
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 1068
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3f609a0eb1bc034ea1396c89bfcc77f
+      internalID: -1370861075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_137
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 1087
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26bad60547a67fd49aebe5405a33b4d5
+      internalID: -45164746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_138
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1062
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1cb0d23337b8ca4da64e594a5d91ccb
+      internalID: -755415108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_139
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 1069
+        width: 33
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a8143537dd441479384187039521bf
+      internalID: -2083610346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_140
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 1088
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 118c52835308484409883446ef449351
+      internalID: -1970511610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_141
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 1063
+        width: 55
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5db1416a290bfae4386370a4572c67f6
+      internalID: -667442975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_142
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 1066
+        width: 55
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05e40fd0a04752c41a6bfabea8a89903
+      internalID: -525028771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_143
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 1064
+        width: 55
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfc2447a51a9cb041a643d8b6e6adbdc
+      internalID: -905371711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_144
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 1068
+        width: 55
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 668f36694e185284f995eae7527fde50
+      internalID: -858490724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_145
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 1063
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 203ed263cdcb35a47967a1e055168b22
+      internalID: 726575376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_146
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1075
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f49224eb15932c4d964f96288a58723
+      internalID: -875966076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_147
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1054
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1408ad2db80d0eb488c65cdf8d38c883
+      internalID: 2033243798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_148
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1071
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d829b1ec6b6924c4b96697c465744686
+      internalID: -1881925186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_149
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1055
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27acf2cab2c45bd4daf3bf696368013b
+      internalID: 1081899638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_150
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 976
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a1e17321a43a54aa1c2d89dbb455e3
+      internalID: 1546744135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_151
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 976
+        width: 27
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 071af0728bb988d4284a0da3f84d575a
+      internalID: 273684333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_152
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 974
+        width: 23
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d2f0022f83b0b049b5b00af5d4877fe
+      internalID: -1892205146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_153
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 974
+        width: 21
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f6d3a31bda4a524289122dc9dc7f98f
+      internalID: -1138891170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_154
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 974
+        width: 21
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a839d80515b69b145a8b319a1b43a523
+      internalID: -1634120357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_155
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 978
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5aba0cf36b98214db721fc1763ce7da
+      internalID: -1303114866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_156
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 991
+        width: 52
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bf788c30e087404e9442119e50f53aa
+      internalID: 411484070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_157
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 986
+        width: 34
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b529405a3c92be46a4794addbdbcc5b
+      internalID: 694774626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_158
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 974
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6080f9729eeca2b4a989f573abdb37a5
+      internalID: -2126617897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_159
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 974
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 739f0206c673f304c9fdc0bdb2ed73ec
+      internalID: -1170389488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_160
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 896
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c0fb18f9ce65c24c85a48ba7a5bbe30
+      internalID: 843047113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_161
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 903
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4902a13b87931824b89af452d5a7262d
+      internalID: -1454041274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_162
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 893
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84daaf72982baad46b135c0d3afb5298
+      internalID: -124904452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_163
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 895
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc1065289b484cf46aebc0187c2c5b48
+      internalID: 1774475676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_164
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 897
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c493f18b229cca48990f962a114bc6f
+      internalID: -598252631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_165
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 909
+        width: 53
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5dc9ff5477d7494e8815dec4ab9d574
+      internalID: 1431459344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_166
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 899
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ee1a8fe17bfcc04a9654efaea6ad746
+      internalID: 686303064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_167
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 897
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e960b7c993d1b644b8405ab8c2aaeab
+      internalID: 1689673567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_168
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 897
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe5b5976dd480b44f8c9a983cc8d6255
+      internalID: -773260391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_169
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 897
+        width: 39
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78fd0a1d0bf0b2f45853427269c62768
+      internalID: -1505481612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_170
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 818
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19a17886d6c33c14bacdf7f73f661474
+      internalID: -111166996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_171
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 818
+        width: 39
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 505a4e9be4f41b648838586153c1bd32
+      internalID: 952012666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_172
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 818
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 019cb43016369ed489367b9c15a4cfb2
+      internalID: -598034320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_173
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 818
+        width: 38
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01f81df256c5ae644aaed196990d120b
+      internalID: 2080486664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_174
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 818
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea8b579ebb871604897563a11df05934
+      internalID: -1955013108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_175
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 818
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1263a8fa0bf4a645afe6a2d401655ed
+      internalID: -2093403676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_176
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 818
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64928bc10bd075b45b5d42443620ca2c
+      internalID: 1569815188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_177
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 818
+        width: 23
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4396ed136dbcebc41857a7fba2edfd0a
+      internalID: 651941221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_178
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 818
+        width: 27
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f193bcb8716a1e0478f231d7075370cb
+      internalID: -1656509721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_179
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 818
+        width: 37
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1544c93a3bbf3849b1e5e78796cdd8c
+      internalID: -26041685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_180
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 739
+        width: 27
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ec1665c350eac048973a6d2963f6ca9
+      internalID: 29603278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_181
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 739
+        width: 39
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b086de7b98f42d4f882f80f498e6b7a
+      internalID: -2147296029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_182
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 739
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 320887c26567e1b4c978b00a3e2eb52f
+      internalID: -1806661970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_183
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 739
+        width: 39
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69f81a2095ad839498f041f548d41a61
+      internalID: 1205587054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_184
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 739
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d689f1e06b9f8a946ada5cb70081ecbd
+      internalID: 581715985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_185
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 739
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eef00c4437b9f074ea7f3961bc6834b3
+      internalID: 1225685384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_186
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 739
+        width: 36
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b632b752ed03bf845aa7810ecce630e7
+      internalID: -376905804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_187
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 740
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78d31763e50191c49aa7c58004218ec9
+      internalID: 1313511944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_188
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 740
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b985fd08e1e3af7459b59e016df3da4c
+      internalID: 1335030446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_189
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 740
+        width: 54
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4cc894d867672e43a3180ff2e55c6de
+      internalID: -1648815761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_190
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 661
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2130502216612c7459d0d63c83d2a569
+      internalID: -1589122198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_191
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 661
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f270afc24bc549f41acb0daf6b59e9b3
+      internalID: -491952524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_192
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 660
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dc21dee973d72b43a72256273e5a53e
+      internalID: -1968229051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_193
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 674
+        width: 43
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1558013be7f9aee44b9d455dc8bb770d
+      internalID: 690545179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_194
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 660
+        width: 43
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cf8dc6bb7af4574dbceb0a50c4fd326
+      internalID: 147445469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_195
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 660
+        width: 64
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e346b9189b90b614eb7e08630053ef2f
+      internalID: -1112573751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_196
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 660
+        width: 77
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc65854e9f63b7b48bdb779a95cef9df
+      internalID: 790049884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_197
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 660
+        width: 78
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98aa24a667e4dc64bae8f62cff94a939
+      internalID: -1882753693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_198
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 660
+        width: 81
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0fbc6fbf73c1e9429f2c325fe51af68
+      internalID: 1126456297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_199
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 660
+        width: 79
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f0ecea1ebaf3d9479108435b5cd15d7
+      internalID: -1459797247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_200
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 581
+        width: 74
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b35d4c527d8d654f85cb68324ffe9d6
+      internalID: 166849525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_201
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 581
+        width: 25
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0338faba20dfe8545a7d5cb720adaace
+      internalID: 379343137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_202
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 583
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 741794255371479439f1fa8a8c2e2cbe
+      internalID: -72650935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_203
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 581
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fe67d7481aa7bb4f9cc73a9d8ec4614
+      internalID: 461544773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_204
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 581
+        width: 23
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c61af3fefab826049b25a7e2d5c052b0
+      internalID: 1247905899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_205
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 581
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bac154b2072bb843b1d50913b052092
+      internalID: 1875226014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_206
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 581
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e4469e424c2fa7408eeb5bd5122b52d
+      internalID: 593266292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_207
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 581
+        width: 57
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f83a6219d186a247b0f23b3ad183dbe
+      internalID: -1978312105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_208
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 581
+        width: 51
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5363bdb6c21dd64da33566cd3335092
+      internalID: -978535820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_209
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 581
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbf40aef8d400d54a8b69a4239854f9f
+      internalID: 1486395438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_210
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 502
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb572b173621fc74fbc01ec7f8b25f3c
+      internalID: -40751901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_211
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 502
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eec0bd7a5952a642b0c2deca72bd1f4
+      internalID: -1833296254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_212
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 502
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4bd96a0411d9c2469a1bbd18994368e
+      internalID: -1142323920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_213
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 502
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd3844a1477ea794385aff4f254000ff
+      internalID: 590280266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_214
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 502
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1169772a609addf428a378ed70904e67
+      internalID: -1574270338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_215
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 508
+        width: 62
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 097561d265452ed4cad5676fc65639de
+      internalID: -1606554346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_216
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 507
+        width: 67
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce5874f4bc91f57458e71ae27b429887
+      internalID: 897982913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_217
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 508
+        width: 62
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 156dcf0bda6fcee45b71aded81b61ad5
+      internalID: 516853401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_218
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 507
+        width: 63
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f95d0f0e986d60645baa471e00cf4e57
+      internalID: -849201861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_219
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 507
+        width: 65
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ece484da51fe6f5489bdab721ad6f670
+      internalID: 252087730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_220
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 429
+        width: 64
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cffc12291875d5540a79c8bf6c54b88b
+      internalID: 1884494963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_221
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 429
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51160d96cda096347a37a852dcdbb3fc
+      internalID: 1132155323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_222
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 424
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d514d8c39a54db468d2a0ddc31b8079
+      internalID: -905295978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_223
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 423
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39af3947343ad7b4aba2f935772960c9
+      internalID: 203684465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_224
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 423
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38a6047e6d9e5c243bafdc854f7254e5
+      internalID: 605367106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_225
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 423
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ed0c16212de324e873c7a7cab213c4
+      internalID: 1337455131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_226
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 423
+        width: 27
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bdb475a450fb104abc5f90a47898342
+      internalID: 1051159023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_227
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 423
+        width: 21
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ac79e3add38a634fa44930ac13d47cb
+      internalID: 265858887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_228
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 434
+        width: 11
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef81d52788c3d844dabab86cd96a3a43
+      internalID: 436159970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_229
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 423
+        width: 20
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ecd9edc7cc35714ea2453657f050dea
+      internalID: -2104460728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_230
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 423
+        width: 37
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e42cc380f4b05454c904188fffc63b5c
+      internalID: 1565208154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_231
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 343
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60ba6b70d24bbdf4186d6c64317ee9e9
+      internalID: 2094954333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_232
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 344
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76ed666ab13bd2d4fabad2acef6c41d7
+      internalID: 1767239741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_233
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 344
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efc26bfae42b85a4da5b76d8f80d2b06
+      internalID: 750779374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_234
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 344
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c71f5729d9496e458c8881f4d6a4282
+      internalID: -1585155134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_235
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 348
+        width: 41
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e56838cfe4e545d4880a86c6e6d4cf51
+      internalID: -523941234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_236
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 350
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3751807f5d50ea944b6a092b3dfd06d3
+      internalID: -1762731131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_237
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 350
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 644f8dfbf5383c14ba20982685e5702b
+      internalID: 1107911014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_238
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 343
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c55513881c17ca479a21c02e242902a
+      internalID: -1492276665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_239
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 343
+        width: 30
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2787b6da96baf044493e19da8f59785d
+      internalID: 207484239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_240
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 343
+        width: 36
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 122e3d8dc02ccd04aa40310b4869d600
+      internalID: -995856929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_241
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 265
+        width: 31
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79128abc5e3c5bc459982581ffa753a9
+      internalID: -2116740872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_242
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 265
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d7e8a7ee0172d48bde276bebe41ee9
+      internalID: 146862279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_243
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 265
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5086243b020b9bd4e86aa0b524da7144
+      internalID: 1317585861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_244
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 265
+        width: 58
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b28fe28e70318e64e96109cf62c4d385
+      internalID: 2142816568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_245
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 265
+        width: 59
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8708035181862e4ab733ad5027f4374
+      internalID: -968011193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_246
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 265
+        width: 58
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c21f3b9a64bc304d844b76b65c663b9
+      internalID: -169047152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_247
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 265
+        width: 58
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4656d94ce7f52b6448e5bdb233982f9d
+      internalID: 471162013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_248
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 265
+        width: 55
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87431ea67b70fe54fa4db244fd74e161
+      internalID: -1068516477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_249
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 265
+        width: 51
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bafe235e448662046a518544240c545b
+      internalID: -146715273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_250
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 265
+        width: 63
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c23079d8d8d9c02469b3fe1a5632c193
+      internalID: 1510488074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_251
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 186
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40066c7a86bd08f409e1d56dd1ac2fbd
+      internalID: -1774319599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_252
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 186
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c53a559f8dacea418bf4eb2b556a613
+      internalID: -625667516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_253
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 186
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b4751b67b74c054b96aa7d7a0eba10d
+      internalID: -1128096165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_254
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 188
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 975277f51613ea5458e52214c65d07f2
+      internalID: -220346287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_255
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 187
+        width: 39
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e57723257811a9b4a8c2b336f0811b21
+      internalID: 579142420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_256
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 188
+        width: 34
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff47f9c670230a44a94d6da2dcebaf02
+      internalID: 24585643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_257
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 194
+        width: 55
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc109b2e6172d324694429da8ff90c04
+      internalID: -782133213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_258
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 187
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f70fbfa08ab170740a30742af12ec8d1
+      internalID: -1167270612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_259
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 188
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d61fa4fdfeae36a47aea68403da7266f
+      internalID: 962074918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_260
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 190
+        width: 45
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b381e60b0be6514b8e2ec6c621185b8
+      internalID: 869422890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_261
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 109
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 727e639080d0f7e4c8ad3391c1e8411d
+      internalID: -1173293181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_262
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 110
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3542d3f754b444b4d8444e5792e0a2eb
+      internalID: 1619305650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_263
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 113
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e554f6650708eb46b6259fa826d2262
+      internalID: -1475110103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_264
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 110
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 744da76e5343aba4da2f8fa0a99599db
+      internalID: 955128229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_265
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 108
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6d56e35d6e7d1b4880bf8152aa6cf8e
+      internalID: -1677454140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_266
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 107
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bac21fd1c304ba44a5d1f5093e6a908
+      internalID: -381357431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_267
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 107
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ba640ec5dfd1b540b38ae5b2ad4d83e
+      internalID: -752509761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_268
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 120
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99a797dc5752b1442b26930729284033
+      internalID: -320507832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_269
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 107
+        width: 43
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ad92bcced105be4b9cd2333efc199d9
+      internalID: 2067220095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_270
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 107
+        width: 65
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf472f0c8d3717d458ed308d2739665e
+      internalID: -2010265644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_271
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 28
+        width: 77
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ed6946714bfad348825975c9764e3b4
+      internalID: 522480689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_272
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 28
+        width: 79
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9caf3e45c482d24b889f0be60eec266
+      internalID: 587925335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_273
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 28
+        width: 81
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da86a9f5eb920554baf53b6cb316e071
+      internalID: -1613647333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_274
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 28
+        width: 80
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c50b405cbe3512498066a62e9708a38
+      internalID: 1091060794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_275
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 28
+        width: 74
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22d314834f4a95a41bb0d840a1624027
+      internalID: 1103682049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_276
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 28
+        width: 25
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30bfbaa64090b0340a83e22470a5a8b5
+      internalID: 1395799996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_277
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 30
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6307cb3fa76826549a76307ee2b94600
+      internalID: -1845714921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_278
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 28
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db3200f35b15f784ea507ab315547157
+      internalID: 137809083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_279
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 45
+        width: 50
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe6197e9e524d0640ac4557af092ede4
+      internalID: 1491321130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_280
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 44
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbeaa86433349164f9320f052c02c5d0
+      internalID: -610388571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanji attacks_281
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 22
+        width: 47
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edb87155830f91e4ab43ecb71a4b6592
+      internalID: -600681587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      sanji attacks_0: 946528936
+      sanji attacks_1: 1266328243
+      sanji attacks_10: 1730683023
+      sanji attacks_100: -671778772
+      sanji attacks_101: 303540721
+      sanji attacks_102: 1930608116
+      sanji attacks_103: 1367576449
+      sanji attacks_104: 1401631883
+      sanji attacks_105: -594251661
+      sanji attacks_106: 1699465403
+      sanji attacks_107: 1861047169
+      sanji attacks_108: 622785
+      sanji attacks_109: 1459317396
+      sanji attacks_11: -193381332
+      sanji attacks_110: -217190080
+      sanji attacks_111: 491142825
+      sanji attacks_112: -54773951
+      sanji attacks_113: -1220478075
+      sanji attacks_114: -391555935
+      sanji attacks_115: -1582616951
+      sanji attacks_116: 1274847850
+      sanji attacks_117: -378752301
+      sanji attacks_118: -1936938915
+      sanji attacks_119: 403110019
+      sanji attacks_12: 313613477
+      sanji attacks_120: -15717676
+      sanji attacks_121: 1784269906
+      sanji attacks_122: 1714708260
+      sanji attacks_123: -122827969
+      sanji attacks_124: 1743654700
+      sanji attacks_125: 1589760942
+      sanji attacks_126: -1704766637
+      sanji attacks_127: 2085421372
+      sanji attacks_128: 1122717007
+      sanji attacks_129: -547564632
+      sanji attacks_13: 1914083615
+      sanji attacks_130: 602498825
+      sanji attacks_131: 1517457627
+      sanji attacks_132: -415960121
+      sanji attacks_133: -992493603
+      sanji attacks_134: -1345773468
+      sanji attacks_135: -1362319365
+      sanji attacks_136: -1370861075
+      sanji attacks_137: -45164746
+      sanji attacks_138: -755415108
+      sanji attacks_139: -2083610346
+      sanji attacks_14: -423543017
+      sanji attacks_140: -1970511610
+      sanji attacks_141: -667442975
+      sanji attacks_142: -525028771
+      sanji attacks_143: -905371711
+      sanji attacks_144: -858490724
+      sanji attacks_145: 726575376
+      sanji attacks_146: -875966076
+      sanji attacks_147: 2033243798
+      sanji attacks_148: -1881925186
+      sanji attacks_149: 1081899638
+      sanji attacks_15: -555683431
+      sanji attacks_150: 1546744135
+      sanji attacks_151: 273684333
+      sanji attacks_152: -1892205146
+      sanji attacks_153: -1138891170
+      sanji attacks_154: -1634120357
+      sanji attacks_155: -1303114866
+      sanji attacks_156: 411484070
+      sanji attacks_157: 694774626
+      sanji attacks_158: -2126617897
+      sanji attacks_159: -1170389488
+      sanji attacks_16: -1557937501
+      sanji attacks_160: 843047113
+      sanji attacks_161: -1454041274
+      sanji attacks_162: -124904452
+      sanji attacks_163: 1774475676
+      sanji attacks_164: -598252631
+      sanji attacks_165: 1431459344
+      sanji attacks_166: 686303064
+      sanji attacks_167: 1689673567
+      sanji attacks_168: -773260391
+      sanji attacks_169: -1505481612
+      sanji attacks_17: 1014136708
+      sanji attacks_170: -111166996
+      sanji attacks_171: 952012666
+      sanji attacks_172: -598034320
+      sanji attacks_173: 2080486664
+      sanji attacks_174: -1955013108
+      sanji attacks_175: -2093403676
+      sanji attacks_176: 1569815188
+      sanji attacks_177: 651941221
+      sanji attacks_178: -1656509721
+      sanji attacks_179: -26041685
+      sanji attacks_18: 1287408186
+      sanji attacks_180: 29603278
+      sanji attacks_181: -2147296029
+      sanji attacks_182: -1806661970
+      sanji attacks_183: 1205587054
+      sanji attacks_184: 581715985
+      sanji attacks_185: 1225685384
+      sanji attacks_186: -376905804
+      sanji attacks_187: 1313511944
+      sanji attacks_188: 1335030446
+      sanji attacks_189: -1648815761
+      sanji attacks_19: -1636149452
+      sanji attacks_190: -1589122198
+      sanji attacks_191: -491952524
+      sanji attacks_192: -1968229051
+      sanji attacks_193: 690545179
+      sanji attacks_194: 147445469
+      sanji attacks_195: -1112573751
+      sanji attacks_196: 790049884
+      sanji attacks_197: -1882753693
+      sanji attacks_198: 1126456297
+      sanji attacks_199: -1459797247
+      sanji attacks_2: 1781342835
+      sanji attacks_20: 384419987
+      sanji attacks_200: 166849525
+      sanji attacks_201: 379343137
+      sanji attacks_202: -72650935
+      sanji attacks_203: 461544773
+      sanji attacks_204: 1247905899
+      sanji attacks_205: 1875226014
+      sanji attacks_206: 593266292
+      sanji attacks_207: -1978312105
+      sanji attacks_208: -978535820
+      sanji attacks_209: 1486395438
+      sanji attacks_21: -1138584011
+      sanji attacks_210: -40751901
+      sanji attacks_211: -1833296254
+      sanji attacks_212: -1142323920
+      sanji attacks_213: 590280266
+      sanji attacks_214: -1574270338
+      sanji attacks_215: -1606554346
+      sanji attacks_216: 897982913
+      sanji attacks_217: 516853401
+      sanji attacks_218: -849201861
+      sanji attacks_219: 252087730
+      sanji attacks_22: -1267975247
+      sanji attacks_220: 1884494963
+      sanji attacks_221: 1132155323
+      sanji attacks_222: -905295978
+      sanji attacks_223: 203684465
+      sanji attacks_224: 605367106
+      sanji attacks_225: 1337455131
+      sanji attacks_226: 1051159023
+      sanji attacks_227: 265858887
+      sanji attacks_228: 436159970
+      sanji attacks_229: -2104460728
+      sanji attacks_23: 2075944867
+      sanji attacks_230: 1565208154
+      sanji attacks_231: 2094954333
+      sanji attacks_232: 1767239741
+      sanji attacks_233: 750779374
+      sanji attacks_234: -1585155134
+      sanji attacks_235: -523941234
+      sanji attacks_236: -1762731131
+      sanji attacks_237: 1107911014
+      sanji attacks_238: -1492276665
+      sanji attacks_239: 207484239
+      sanji attacks_24: 1748230467
+      sanji attacks_240: -995856929
+      sanji attacks_241: -2116740872
+      sanji attacks_242: 146862279
+      sanji attacks_243: 1317585861
+      sanji attacks_244: 2142816568
+      sanji attacks_245: -968011193
+      sanji attacks_246: -169047152
+      sanji attacks_247: 471162013
+      sanji attacks_248: -1068516477
+      sanji attacks_249: -146715273
+      sanji attacks_25: 688186718
+      sanji attacks_250: 1510488074
+      sanji attacks_251: -1774319599
+      sanji attacks_252: -625667516
+      sanji attacks_253: -1128096165
+      sanji attacks_254: -220346287
+      sanji attacks_255: 579142420
+      sanji attacks_256: 24585643
+      sanji attacks_257: -782133213
+      sanji attacks_258: -1167270612
+      sanji attacks_259: 962074918
+      sanji attacks_26: 2090496731
+      sanji attacks_260: 869422890
+      sanji attacks_261: -1173293181
+      sanji attacks_262: 1619305650
+      sanji attacks_263: -1475110103
+      sanji attacks_264: 955128229
+      sanji attacks_265: -1677454140
+      sanji attacks_266: -381357431
+      sanji attacks_267: -752509761
+      sanji attacks_268: -320507832
+      sanji attacks_269: 2067220095
+      sanji attacks_27: 932631206
+      sanji attacks_270: -2010265644
+      sanji attacks_271: 522480689
+      sanji attacks_272: 587925335
+      sanji attacks_273: -1613647333
+      sanji attacks_274: 1091060794
+      sanji attacks_275: 1103682049
+      sanji attacks_276: 1395799996
+      sanji attacks_277: -1845714921
+      sanji attacks_278: 137809083
+      sanji attacks_279: 1491321130
+      sanji attacks_28: 1372134154
+      sanji attacks_280: -610388571
+      sanji attacks_281: -600681587
+      sanji attacks_29: -915533645
+      sanji attacks_3: -1935417187
+      sanji attacks_30: -1240380626
+      sanji attacks_31: 573514657
+      sanji attacks_32: 1012752671
+      sanji attacks_33: 1397119070
+      sanji attacks_34: -1128411954
+      sanji attacks_35: -1072897725
+      sanji attacks_36: -1405222189
+      sanji attacks_37: -1846029331
+      sanji attacks_38: -1028081429
+      sanji attacks_39: -2085233542
+      sanji attacks_4: 286177513
+      sanji attacks_40: 1015085977
+      sanji attacks_41: 2090348614
+      sanji attacks_42: -1983844680
+      sanji attacks_43: 107804144
+      sanji attacks_44: 1450951632
+      sanji attacks_45: 1311555148
+      sanji attacks_46: 1204748528
+      sanji attacks_47: -251330768
+      sanji attacks_48: 1761008305
+      sanji attacks_49: 1638346101
+      sanji attacks_5: 1261222105
+      sanji attacks_50: -476559834
+      sanji attacks_51: -2079969994
+      sanji attacks_52: -840031675
+      sanji attacks_53: 496406498
+      sanji attacks_54: 41812799
+      sanji attacks_55: -1796228460
+      sanji attacks_56: -623048871
+      sanji attacks_57: 2038543602
+      sanji attacks_58: 437109050
+      sanji attacks_59: 1656798176
+      sanji attacks_6: 291007936
+      sanji attacks_60: 346840327
+      sanji attacks_61: -1624281978
+      sanji attacks_62: 418135070
+      sanji attacks_63: 1605659049
+      sanji attacks_64: -107285833
+      sanji attacks_65: -817034037
+      sanji attacks_66: -427238539
+      sanji attacks_67: -1076298436
+      sanji attacks_68: 1798984007
+      sanji attacks_69: -247652234
+      sanji attacks_7: 273345006
+      sanji attacks_70: -312409857
+      sanji attacks_71: -543905958
+      sanji attacks_72: 1701650841
+      sanji attacks_73: 747226141
+      sanji attacks_74: -1956907983
+      sanji attacks_75: -2128372755
+      sanji attacks_76: 1626393250
+      sanji attacks_77: 2047213009
+      sanji attacks_78: -1201414359
+      sanji attacks_79: -263685039
+      sanji attacks_8: -113664775
+      sanji attacks_80: -44260241
+      sanji attacks_81: -1339079367
+      sanji attacks_82: 314366760
+      sanji attacks_83: 736375445
+      sanji attacks_84: 1580265200
+      sanji attacks_85: 650332066
+      sanji attacks_86: 1223724707
+      sanji attacks_87: 138287115
+      sanji attacks_88: -463474448
+      sanji attacks_89: -86027898
+      sanji attacks_9: -1429209306
+      sanji attacks_90: -754175557
+      sanji attacks_91: 201257070
+      sanji attacks_92: -1257928019
+      sanji attacks_93: 804018607
+      sanji attacks_94: -175100300
+      sanji attacks_95: -600409815
+      sanji attacks_96: 784834785
+      sanji attacks_97: -1579879435
+      sanji attacks_98: -854163724
+      sanji attacks_99: -1244689695
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
