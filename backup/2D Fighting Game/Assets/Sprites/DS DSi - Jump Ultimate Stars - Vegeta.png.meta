@@ -1,0 +1,3726 @@
+fileFormatVersion: 2
+guid: d8a33a0f48e4e1f49ac26004d98c98ab
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_0
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 1407
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76d70637810badf4d880a8aac8ed5f21
+      internalID: 724594766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_1
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1407
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 665e2b90a87bb4c49896bcf89808f5fd
+      internalID: -1160308432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_2
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 1407
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78dafe04eba74c94a83a8226558080c3
+      internalID: -2003934854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_3
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1407
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbf15eb1d086d3a46bc4d461f2052f10
+      internalID: -1520305693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_4
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 1408
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16fd891874e3a3b479d473137dd5720c
+      internalID: -540485530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_5
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 1412
+        width: 49
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f01928c868b949045889c154bbb3fcea
+      internalID: -2084546161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_6
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 1409
+        width: 48
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36d429ff49316324da9b6ba7a9458b8c
+      internalID: -540021368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_7
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 1407
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b10e73d3382c06045aec368b5ba7f902
+      internalID: -1818886592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_8
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 1413
+        width: 56
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06b729e78021d7746bdbe66885ece735
+      internalID: -2051541442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_9
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 1413
+        width: 56
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9d89607565d462478e3d0bab17a8f65
+      internalID: 848978887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_10
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1316
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c74a8028adfe1934da7ff7ff8f921b58
+      internalID: 967898863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_11
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 1316
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7866015bdf7c074f8412cab084ba1f2
+      internalID: -1253152037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_12
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 1316
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28046c4be083e9043961bcb91999f528
+      internalID: -453108166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_13
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1318
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22210417a6a8a324c918a018ffcd658f
+      internalID: 513995107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_14
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1325
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa23490f1872d94419f1cb4b8be9adbf
+      internalID: 604820951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_15
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 1318
+        width: 37
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93f70a75d1199d642bc341a9cdc38574
+      internalID: 309267326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_16
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 1317
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bf94f7e941bc4b4189106b7d20ced97
+      internalID: -2014418190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_17
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 1316
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d55e7e7ea8da9794e846734d1404ec38
+      internalID: -1984100476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_18
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 1316
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f214d708f140bb445a061fecc822e287
+      internalID: -818222247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_19
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 1316
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49bd7748992f3e8459ad11e5f148ad64
+      internalID: -507227293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_20
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1225
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db5bb7f3eadf89a4994a10134f1132fb
+      internalID: -211417890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_21
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1225
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 237bad234dd0fec4bbd791a0306271ec
+      internalID: 487076570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_22
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1235
+        width: 56
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a113b96bd930a4f408eefc0122ce2df0
+      internalID: 2013852677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_23
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 1225
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cc5cfc4f3f913542adaff173621d7d7
+      internalID: 475042608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_24
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 1225
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb79ae59d1b8fb74b99cbd84305655a8
+      internalID: 1405560855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_25
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 1225
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2df020e571bb97f4c800c7431cd68bcf
+      internalID: -1562599728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_26
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 1235
+        width: 56
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ff1e420b413f6645a42e0da5166031f
+      internalID: 1606810267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_27
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 1235
+        width: 56
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf4467772fed1b147bdb0476b5b71baa
+      internalID: -1290589795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_28
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 1244
+        width: 61
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e06bf77acc67c8442947c6076b9a7687
+      internalID: -1875643498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_29
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1225
+        width: 51
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee292eb1bc7fdd54ba01dcbb012687b9
+      internalID: -1471555590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_30
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1158
+        width: 60
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f8d0148f22537c4ab3c7a4c37e86e0a
+      internalID: 1621256322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_31
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1150
+        width: 58
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02ccb6b249e0eaf44b49c8ffa8c8b045
+      internalID: -487877798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_32
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1151
+        width: 60
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c34ea9f8c17d03a4abbef770c5e6db78
+      internalID: -850115778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_33
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1134
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b51b876b83d14f34c943e8b7785c36b1
+      internalID: -1341957956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_34
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1137
+        width: 27
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60ac9b0640eef0a448505ad2a613aa50
+      internalID: -1263010844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_35
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1137
+        width: 24
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 448bedf78370c12489b1cc795042d10e
+      internalID: 986908017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_36
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 1137
+        width: 32
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3876f80a508c3346befc66e8f73097d
+      internalID: -611289040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_37
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 1139
+        width: 21
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2e0faf7a2245434f800970288c80910
+      internalID: -883166210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_38
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 1116
+        width: 48
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 565f8a5dc8432a54abd8ac4c82912874
+      internalID: 815576191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_39
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 1145
+        width: 58
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef71e85840ffbec4a93742e22ffeb052
+      internalID: 1022414482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_40
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1051
+        width: 35
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b881660917b77c4fa33fe3d79ec3729
+      internalID: -203985041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_41
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1044
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f4842763402bfd4d88da35be8c090ae
+      internalID: -1863079286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_42
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 1043
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8927b33ef1c80be40960b0d648a975c9
+      internalID: 1544980587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_43
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 1043
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 533975f3182eb734982ecac3736c2c0a
+      internalID: 1999876754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_44
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1048
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0b06c500714bfb4b8f50478a1ceb5d9
+      internalID: 122597723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_45
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 1043
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50e37804d8d26dd4d9bdf2779d865e6c
+      internalID: 857297428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_46
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 1044
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d481feecae13b5d4a96f38db52663a4d
+      internalID: 281265724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_47
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 1043
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c54280e342e53d443aa54565431afc89
+      internalID: -1830647429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_48
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 1048
+        width: 44
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56e57f0834fa61c4582d961b12dac66d
+      internalID: -1618005678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_49
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 1046
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca564f48ec800ec4aad74acce4ea1977
+      internalID: -157828946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_50
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 952
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b29fa9ee3bd16e45bd1ddb408495d73
+      internalID: -882392355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_51
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 952
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4360a44810fac6343a1e66aee10bea96
+      internalID: 1089793860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_52
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 952
+        width: 26
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09a6732e30b9c23418141ffe9fe43738
+      internalID: -612776889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_53
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 952
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9219f088a26fc446a42efd9d8ca854b
+      internalID: -848991427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_54
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 952
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcb5665c90e77c14a9e898721e21ff8d
+      internalID: -1537435803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_55
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 952
+        width: 30
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83c3a184c404ff94fbe9367aaf8989ac
+      internalID: -1569230715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_56
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 952
+        width: 23
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dde5076a0f4511a40a47bb49be3c411e
+      internalID: -1983761414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_57
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 952
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6e1248e6d552ca47b861b93996eeba0
+      internalID: 508707981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_58
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 952
+        width: 27
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de49aa52a02c25b439af3538531a9529
+      internalID: 1160642577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_59
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 952
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d97dfcf67d09c364496aa21080a5f877
+      internalID: -1102078638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_60
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 862
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9aedc72208ebf14180604ddbc1d741a
+      internalID: -920178841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_61
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 862
+        width: 20
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba11361c119a8084f89c2ab2a1a81e0d
+      internalID: -2043403761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_62
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 862
+        width: 25
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21d278b4a798b9f4fbaf39e5186eefbe
+      internalID: -1528645086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_63
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 862
+        width: 28
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67b2d1aabc858a8418aa1f8de8be2875
+      internalID: -2107754882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_64
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 862
+        width: 27
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba6b2c3b64d7dbd42b03e0e351171744
+      internalID: -152337746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_65
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 861
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be1637b515033e04088c1ee4571732c1
+      internalID: 591047451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_66
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 861
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f56153ed244d2cb4eac2a22d84b369a5
+      internalID: -1724606305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_67
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 861
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc2fc08281d1afa448b7a3fb9e4e6d42
+      internalID: -976290314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_68
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 861
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e467bce2f1ee3564899f7929cde171e2
+      internalID: -177067211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_69
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 861
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82feff4fc08de1d4aa5e17b0b7299243
+      internalID: 1117960573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_70
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 770
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 461022c324f4d474ba262f2ac0109cf5
+      internalID: -1185925891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_71
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 770
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 803a63dfb108fe84a9bb012194a7bc18
+      internalID: -1284792928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_72
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 770
+        width: 57
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d3070335ebaa3d49844d74336c09b29
+      internalID: 1365426750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_73
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 770
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5170fa1f97407b478b6cb3428762066
+      internalID: 1331660829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_74
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 770
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bbab81dd186a61409ed04b761a71fbb
+      internalID: 1697554643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_75
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 770
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 390340343a5bb4d498565ad468fa6564
+      internalID: -132669073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_76
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 778
+        width: 56
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d6a13adfc737cb4f9173324174da32e
+      internalID: 1760254295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_77
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 778
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2989f00b7ced73b4da7009df8d00adfa
+      internalID: -1534673844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_78
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 770
+        width: 35
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50ba5511828ad574e8f8b798c5857120
+      internalID: -177607741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_79
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 770
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68e375702e6a2df4ea1959678cb5b20f
+      internalID: -862052446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_80
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 679
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 532f784233e7beb429b1b48853db8f20
+      internalID: 931118557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_81
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 679
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffbfbeccd56dbfb4d912acb6bba90d33
+      internalID: 71450228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_82
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 679
+        width: 56
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad80ff979edaac84e894bc36e548eb0e
+      internalID: 2034643747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_83
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 679
+        width: 51
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93f5dc70832f78e42afd9844d2a017f0
+      internalID: 146978930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_84
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 679
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df4fe6648a466384884482fbdf28f55a
+      internalID: 1388156364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_85
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 679
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a4fb2f0a13218047bb2d04fb193d6e9
+      internalID: -2105078657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_86
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 679
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2504c27a756df974d832d5cce93ecfa9
+      internalID: -737947430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_87
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 679
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 293309208902d3a4a8298631a59d07bd
+      internalID: 1002595994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_88
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 679
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e41731ac547f1444084a3ef2823e867a
+      internalID: -319876733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_89
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 679
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 299ed4ef635acbe4f9b4d392241ed45c
+      internalID: 1587545941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_90
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 588
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b56283ac3319edb488341b375f768245
+      internalID: 1637277649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_91
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 588
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7a1b618df449fa4e8ca11f3353fa361
+      internalID: -1605946687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_92
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 588
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01fbac1a0a7de91449af7535c7e13dfa
+      internalID: -604659544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_93
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 588
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dfd1f3cca24a2849b369a14b5a1b7a4
+      internalID: 1422744935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_94
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 588
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39d47f1c329f1b34781310db89208965
+      internalID: -286749313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_95
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 588
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12eb964c71f3092458e3effe2afcf986
+      internalID: -630926807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_96
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 588
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 127c504a754322b4d9115f33cf83c429
+      internalID: -111522401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_97
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 588
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee17c8b2f63c3464f85bab6ea044f834
+      internalID: 352467496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_98
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 588
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e12ae0e3851c59942bf91f6245c06272
+      internalID: 582797360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_99
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 588
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f17058769dfeea04c999ccf8cf510076
+      internalID: 525568442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_100
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 595
+        width: 9
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f34b4324b90f546459eb8edb0af81117
+      internalID: -110895143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_101
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 497
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a85167407d8ddb247b60b8e99fa5075f
+      internalID: -554141353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_102
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 497
+        width: 34
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 480106964ccac2647ac2a96c9f57b903
+      internalID: 1208046930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_103
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 497
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88d5886ae8006b340a5da78ed38d8938
+      internalID: -1043846133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_104
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 497
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94525f8b86fdf2b4d8a8d17586c498c7
+      internalID: 1676763724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_105
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 497
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 459781f18fbfedb4a9d9412518b7bd99
+      internalID: -300238945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_106
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 497
+        width: 30
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a86fa40cd5f73804f8d949d2bfede965
+      internalID: 1109391063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_107
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 497
+        width: 30
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a8d19f93be03ea44928ff945c865fe8
+      internalID: -913604491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_108
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 497
+        width: 23
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2cec14dc44a09f4fb82683f42fb2ae3
+      internalID: 1827209645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_109
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 497
+        width: 36
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 670d8353e6014c14cbc10def16538eec
+      internalID: -297685091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_110
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 497
+        width: 22
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a689562fdedb7cb4d88cd696f5918a81
+      internalID: -1385854039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_111
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 406
+        width: 43
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d19836aa1e09977488ce31dab790a44b
+      internalID: -1835298933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_112
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 406
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d9153f51542b44479281de4838a1885
+      internalID: -664620145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_113
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 406
+        width: 26
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f6e15f4f4cda2844a4ed2730e8d466f
+      internalID: 377013360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_114
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 406
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ca98a9134b383c40a1d8f092286d7b6
+      internalID: 1586658199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_115
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 406
+        width: 54
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f0e8d62dcfa10f4da597315bba66fd4
+      internalID: 581010498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_116
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 406
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9328142a80bc86f41930500223b1388c
+      internalID: -2071720054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_117
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 406
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cde4a13179b78a4189dbf6f79146143
+      internalID: -408780201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_118
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 406
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3874da1f09dc86245a7d89e476731ec1
+      internalID: -880634639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_119
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 406
+        width: 29
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7a0d54c3f25627478723cb481434729
+      internalID: 530613338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_120
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 406
+        width: 29
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55385f3d11514da45ac376011b6936d1
+      internalID: -1865356784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_121
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 315
+        width: 38
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70c2a7587386c144cbac3bb71e105f22
+      internalID: 220617121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_122
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 315
+        width: 37
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fffc37e8a5878cb42b8e0f715a165f09
+      internalID: -778867490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_123
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 315
+        width: 37
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ccd300578ccb9c439b9626a7a970542
+      internalID: 1618062434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_124
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 315
+        width: 37
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 909697d244452384d81e2ad41c5a1afc
+      internalID: 1036539121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_125
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 321
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b31f5c093e77efe4abddd991b1d28fa4
+      internalID: -216852667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_126
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 320
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2413ec324cdd91d45b66e1c19954d426
+      internalID: 1640770318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_127
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 315
+        width: 34
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4603f71ee596a741aecdde8c315341b
+      internalID: -1058074188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_128
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 317
+        width: 27
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5acd97ca23f7b2a4b86413450680eded
+      internalID: -1540946708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_129
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 318
+        width: 24
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff13914ad2d568049b64afcce6934124
+      internalID: 615981469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_130
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 320
+        width: 49
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92aa82600a5b4514b9119832a56e6597
+      internalID: -108231432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_131
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 227
+        width: 66
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a35452dbc27bbb54aba221380f11e29e
+      internalID: 1287603260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_132
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 225
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1861e019dd091a043b91e55dc8370cba
+      internalID: -672053045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_133
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 233
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 797f5906814b42d499cd2bf6f640a3ef
+      internalID: 1502845017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_134
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 228
+        width: 27
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53e3538030c75d74490e32feb7a0ac3b
+      internalID: -531525123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_135
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 229
+        width: 49
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 939395a5ab7744a45a60c311a18500d2
+      internalID: -1638172700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_136
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 227
+        width: 66
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ef349159236c94ab240f3dc3053f94
+      internalID: -800673905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_137
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 225
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cfbd7dede1507f4f91b8ec8af72fe28
+      internalID: 766905801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_138
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 233
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f678e014bcfa9e488003640f6cacf47
+      internalID: 1989013835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_139
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 228
+        width: 27
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d95538df452f6734e84052709880ca0a
+      internalID: 1874805138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_140
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 243
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05b87edada03f4f4c90d454748f713b2
+      internalID: -1504588347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_141
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 240
+        width: 47
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79e4fadfcb8990e4eaeeac5daeb09463
+      internalID: 104186283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_142
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 117
+        width: 57
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fa37e7f7ef65984c92164e9380339d6
+      internalID: -438488523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_143
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 162
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 144813521bac47b4f8b36beeba95b4c2
+      internalID: 660312780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_144
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 153
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aef77612dea806479bce6b04c15dd9b
+      internalID: -1185377897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_145
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 160
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d351b3e2617107f478b08e0ba3eb389a
+      internalID: -1231261362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_146
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 152
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a23d50e24d3595144ac2765d16bcae3b
+      internalID: 505780595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_147
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 152
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f4bf5bff2f31b0438b4c45be20285ea
+      internalID: 1188918952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_148
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 133
+        width: 50
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: def1de03228c27f4d9825c422524e1e3
+      internalID: -214345384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_149
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 131
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aba433fbe7bb6fc4a8d5a2487b57bc1b
+      internalID: 552964521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_150
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 65
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 229fa93b0b9773b419145b2469108948
+      internalID: 1677865697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_151
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 65
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24dfa7c1bc6c4e44385e1c8e93a71593
+      internalID: 288164863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_152
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 65
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b27e63c9411e1264fbc1a01ffd90dc46
+      internalID: 1947060639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_153
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 65
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35315900e30acba418b7ff7c7ab08e26
+      internalID: 1880057283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_154
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 65
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecf5b2a29fd09704980880726a037753
+      internalID: 2132185700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_155
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 65
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7272ebaab993ad94ea941630c05aadc9
+      internalID: -1714515334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_156
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 65
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d62ee4b55b2bb34d8e1d6d5d90d8598
+      internalID: 1283508109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_157
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 65
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00aec7a3533c389439b07edd36b80538
+      internalID: -745843623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_158
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 65
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4d8bacfbdb8de94cb223b6ed322939f
+      internalID: 471636937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_159
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 65
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c8ed16caaf8c4842a40c94ba3a40422
+      internalID: 208300149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_160
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 2
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf3c3de93831c3343a31a8468f46a880
+      internalID: -1680151464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_161
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 2
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 559f168547ad7dc41bec5943aa46a30b
+      internalID: 491598778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Vegeta_162
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 0
+        width: 156
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a50029f7433ebc4d95240d38195941e
+      internalID: 1915930736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      DS DSi - Jump Ultimate Stars - Vegeta_0: 724594766
+      DS DSi - Jump Ultimate Stars - Vegeta_1: -1160308432
+      DS DSi - Jump Ultimate Stars - Vegeta_10: 967898863
+      DS DSi - Jump Ultimate Stars - Vegeta_100: -110895143
+      DS DSi - Jump Ultimate Stars - Vegeta_101: -554141353
+      DS DSi - Jump Ultimate Stars - Vegeta_102: 1208046930
+      DS DSi - Jump Ultimate Stars - Vegeta_103: -1043846133
+      DS DSi - Jump Ultimate Stars - Vegeta_104: 1676763724
+      DS DSi - Jump Ultimate Stars - Vegeta_105: -300238945
+      DS DSi - Jump Ultimate Stars - Vegeta_106: 1109391063
+      DS DSi - Jump Ultimate Stars - Vegeta_107: -913604491
+      DS DSi - Jump Ultimate Stars - Vegeta_108: 1827209645
+      DS DSi - Jump Ultimate Stars - Vegeta_109: -297685091
+      DS DSi - Jump Ultimate Stars - Vegeta_11: -1253152037
+      DS DSi - Jump Ultimate Stars - Vegeta_110: -1385854039
+      DS DSi - Jump Ultimate Stars - Vegeta_111: -1835298933
+      DS DSi - Jump Ultimate Stars - Vegeta_112: -664620145
+      DS DSi - Jump Ultimate Stars - Vegeta_113: 377013360
+      DS DSi - Jump Ultimate Stars - Vegeta_114: 1586658199
+      DS DSi - Jump Ultimate Stars - Vegeta_115: 581010498
+      DS DSi - Jump Ultimate Stars - Vegeta_116: -2071720054
+      DS DSi - Jump Ultimate Stars - Vegeta_117: -408780201
+      DS DSi - Jump Ultimate Stars - Vegeta_118: -880634639
+      DS DSi - Jump Ultimate Stars - Vegeta_119: 530613338
+      DS DSi - Jump Ultimate Stars - Vegeta_12: -453108166
+      DS DSi - Jump Ultimate Stars - Vegeta_120: -1865356784
+      DS DSi - Jump Ultimate Stars - Vegeta_121: 220617121
+      DS DSi - Jump Ultimate Stars - Vegeta_122: -778867490
+      DS DSi - Jump Ultimate Stars - Vegeta_123: 1618062434
+      DS DSi - Jump Ultimate Stars - Vegeta_124: 1036539121
+      DS DSi - Jump Ultimate Stars - Vegeta_125: -216852667
+      DS DSi - Jump Ultimate Stars - Vegeta_126: 1640770318
+      DS DSi - Jump Ultimate Stars - Vegeta_127: -1058074188
+      DS DSi - Jump Ultimate Stars - Vegeta_128: -1540946708
+      DS DSi - Jump Ultimate Stars - Vegeta_129: 615981469
+      DS DSi - Jump Ultimate Stars - Vegeta_13: 513995107
+      DS DSi - Jump Ultimate Stars - Vegeta_130: -108231432
+      DS DSi - Jump Ultimate Stars - Vegeta_131: 1287603260
+      DS DSi - Jump Ultimate Stars - Vegeta_132: -672053045
+      DS DSi - Jump Ultimate Stars - Vegeta_133: 1502845017
+      DS DSi - Jump Ultimate Stars - Vegeta_134: -531525123
+      DS DSi - Jump Ultimate Stars - Vegeta_135: -1638172700
+      DS DSi - Jump Ultimate Stars - Vegeta_136: -800673905
+      DS DSi - Jump Ultimate Stars - Vegeta_137: 766905801
+      DS DSi - Jump Ultimate Stars - Vegeta_138: 1989013835
+      DS DSi - Jump Ultimate Stars - Vegeta_139: 1874805138
+      DS DSi - Jump Ultimate Stars - Vegeta_14: 604820951
+      DS DSi - Jump Ultimate Stars - Vegeta_140: -1504588347
+      DS DSi - Jump Ultimate Stars - Vegeta_141: 104186283
+      DS DSi - Jump Ultimate Stars - Vegeta_142: -438488523
+      DS DSi - Jump Ultimate Stars - Vegeta_143: 660312780
+      DS DSi - Jump Ultimate Stars - Vegeta_144: -1185377897
+      DS DSi - Jump Ultimate Stars - Vegeta_145: -1231261362
+      DS DSi - Jump Ultimate Stars - Vegeta_146: 505780595
+      DS DSi - Jump Ultimate Stars - Vegeta_147: 1188918952
+      DS DSi - Jump Ultimate Stars - Vegeta_148: -214345384
+      DS DSi - Jump Ultimate Stars - Vegeta_149: 552964521
+      DS DSi - Jump Ultimate Stars - Vegeta_15: 309267326
+      DS DSi - Jump Ultimate Stars - Vegeta_150: 1677865697
+      DS DSi - Jump Ultimate Stars - Vegeta_151: 288164863
+      DS DSi - Jump Ultimate Stars - Vegeta_152: 1947060639
+      DS DSi - Jump Ultimate Stars - Vegeta_153: 1880057283
+      DS DSi - Jump Ultimate Stars - Vegeta_154: 2132185700
+      DS DSi - Jump Ultimate Stars - Vegeta_155: -1714515334
+      DS DSi - Jump Ultimate Stars - Vegeta_156: 1283508109
+      DS DSi - Jump Ultimate Stars - Vegeta_157: -745843623
+      DS DSi - Jump Ultimate Stars - Vegeta_158: 471636937
+      DS DSi - Jump Ultimate Stars - Vegeta_159: 208300149
+      DS DSi - Jump Ultimate Stars - Vegeta_16: -2014418190
+      DS DSi - Jump Ultimate Stars - Vegeta_160: -1680151464
+      DS DSi - Jump Ultimate Stars - Vegeta_161: 491598778
+      DS DSi - Jump Ultimate Stars - Vegeta_162: 1915930736
+      DS DSi - Jump Ultimate Stars - Vegeta_17: -1984100476
+      DS DSi - Jump Ultimate Stars - Vegeta_18: -818222247
+      DS DSi - Jump Ultimate Stars - Vegeta_19: -507227293
+      DS DSi - Jump Ultimate Stars - Vegeta_2: -2003934854
+      DS DSi - Jump Ultimate Stars - Vegeta_20: -211417890
+      DS DSi - Jump Ultimate Stars - Vegeta_21: 487076570
+      DS DSi - Jump Ultimate Stars - Vegeta_22: 2013852677
+      DS DSi - Jump Ultimate Stars - Vegeta_23: 475042608
+      DS DSi - Jump Ultimate Stars - Vegeta_24: 1405560855
+      DS DSi - Jump Ultimate Stars - Vegeta_25: -1562599728
+      DS DSi - Jump Ultimate Stars - Vegeta_26: 1606810267
+      DS DSi - Jump Ultimate Stars - Vegeta_27: -1290589795
+      DS DSi - Jump Ultimate Stars - Vegeta_28: -1875643498
+      DS DSi - Jump Ultimate Stars - Vegeta_29: -1471555590
+      DS DSi - Jump Ultimate Stars - Vegeta_3: -1520305693
+      DS DSi - Jump Ultimate Stars - Vegeta_30: 1621256322
+      DS DSi - Jump Ultimate Stars - Vegeta_31: -487877798
+      DS DSi - Jump Ultimate Stars - Vegeta_32: -850115778
+      DS DSi - Jump Ultimate Stars - Vegeta_33: -1341957956
+      DS DSi - Jump Ultimate Stars - Vegeta_34: -1263010844
+      DS DSi - Jump Ultimate Stars - Vegeta_35: 986908017
+      DS DSi - Jump Ultimate Stars - Vegeta_36: -611289040
+      DS DSi - Jump Ultimate Stars - Vegeta_37: -883166210
+      DS DSi - Jump Ultimate Stars - Vegeta_38: 815576191
+      DS DSi - Jump Ultimate Stars - Vegeta_39: 1022414482
+      DS DSi - Jump Ultimate Stars - Vegeta_4: -540485530
+      DS DSi - Jump Ultimate Stars - Vegeta_40: -203985041
+      DS DSi - Jump Ultimate Stars - Vegeta_41: -1863079286
+      DS DSi - Jump Ultimate Stars - Vegeta_42: 1544980587
+      DS DSi - Jump Ultimate Stars - Vegeta_43: 1999876754
+      DS DSi - Jump Ultimate Stars - Vegeta_44: 122597723
+      DS DSi - Jump Ultimate Stars - Vegeta_45: 857297428
+      DS DSi - Jump Ultimate Stars - Vegeta_46: 281265724
+      DS DSi - Jump Ultimate Stars - Vegeta_47: -1830647429
+      DS DSi - Jump Ultimate Stars - Vegeta_48: -1618005678
+      DS DSi - Jump Ultimate Stars - Vegeta_49: -157828946
+      DS DSi - Jump Ultimate Stars - Vegeta_5: -2084546161
+      DS DSi - Jump Ultimate Stars - Vegeta_50: -882392355
+      DS DSi - Jump Ultimate Stars - Vegeta_51: 1089793860
+      DS DSi - Jump Ultimate Stars - Vegeta_52: -612776889
+      DS DSi - Jump Ultimate Stars - Vegeta_53: -848991427
+      DS DSi - Jump Ultimate Stars - Vegeta_54: -1537435803
+      DS DSi - Jump Ultimate Stars - Vegeta_55: -1569230715
+      DS DSi - Jump Ultimate Stars - Vegeta_56: -1983761414
+      DS DSi - Jump Ultimate Stars - Vegeta_57: 508707981
+      DS DSi - Jump Ultimate Stars - Vegeta_58: 1160642577
+      DS DSi - Jump Ultimate Stars - Vegeta_59: -1102078638
+      DS DSi - Jump Ultimate Stars - Vegeta_6: -540021368
+      DS DSi - Jump Ultimate Stars - Vegeta_60: -920178841
+      DS DSi - Jump Ultimate Stars - Vegeta_61: -2043403761
+      DS DSi - Jump Ultimate Stars - Vegeta_62: -1528645086
+      DS DSi - Jump Ultimate Stars - Vegeta_63: -2107754882
+      DS DSi - Jump Ultimate Stars - Vegeta_64: -152337746
+      DS DSi - Jump Ultimate Stars - Vegeta_65: 591047451
+      DS DSi - Jump Ultimate Stars - Vegeta_66: -1724606305
+      DS DSi - Jump Ultimate Stars - Vegeta_67: -976290314
+      DS DSi - Jump Ultimate Stars - Vegeta_68: -177067211
+      DS DSi - Jump Ultimate Stars - Vegeta_69: 1117960573
+      DS DSi - Jump Ultimate Stars - Vegeta_7: -1818886592
+      DS DSi - Jump Ultimate Stars - Vegeta_70: -1185925891
+      DS DSi - Jump Ultimate Stars - Vegeta_71: -1284792928
+      DS DSi - Jump Ultimate Stars - Vegeta_72: 1365426750
+      DS DSi - Jump Ultimate Stars - Vegeta_73: 1331660829
+      DS DSi - Jump Ultimate Stars - Vegeta_74: 1697554643
+      DS DSi - Jump Ultimate Stars - Vegeta_75: -132669073
+      DS DSi - Jump Ultimate Stars - Vegeta_76: 1760254295
+      DS DSi - Jump Ultimate Stars - Vegeta_77: -1534673844
+      DS DSi - Jump Ultimate Stars - Vegeta_78: -177607741
+      DS DSi - Jump Ultimate Stars - Vegeta_79: -862052446
+      DS DSi - Jump Ultimate Stars - Vegeta_8: -2051541442
+      DS DSi - Jump Ultimate Stars - Vegeta_80: 931118557
+      DS DSi - Jump Ultimate Stars - Vegeta_81: 71450228
+      DS DSi - Jump Ultimate Stars - Vegeta_82: 2034643747
+      DS DSi - Jump Ultimate Stars - Vegeta_83: 146978930
+      DS DSi - Jump Ultimate Stars - Vegeta_84: 1388156364
+      DS DSi - Jump Ultimate Stars - Vegeta_85: -2105078657
+      DS DSi - Jump Ultimate Stars - Vegeta_86: -737947430
+      DS DSi - Jump Ultimate Stars - Vegeta_87: 1002595994
+      DS DSi - Jump Ultimate Stars - Vegeta_88: -319876733
+      DS DSi - Jump Ultimate Stars - Vegeta_89: 1587545941
+      DS DSi - Jump Ultimate Stars - Vegeta_9: 848978887
+      DS DSi - Jump Ultimate Stars - Vegeta_90: 1637277649
+      DS DSi - Jump Ultimate Stars - Vegeta_91: -1605946687
+      DS DSi - Jump Ultimate Stars - Vegeta_92: -604659544
+      DS DSi - Jump Ultimate Stars - Vegeta_93: 1422744935
+      DS DSi - Jump Ultimate Stars - Vegeta_94: -286749313
+      DS DSi - Jump Ultimate Stars - Vegeta_95: -630926807
+      DS DSi - Jump Ultimate Stars - Vegeta_96: -111522401
+      DS DSi - Jump Ultimate Stars - Vegeta_97: 352467496
+      DS DSi - Jump Ultimate Stars - Vegeta_98: 582797360
+      DS DSi - Jump Ultimate Stars - Vegeta_99: 525568442
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

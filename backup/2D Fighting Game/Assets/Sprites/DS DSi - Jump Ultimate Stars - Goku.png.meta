@@ -1,0 +1,5068 @@
+fileFormatVersion: 2
+guid: 33458e7b37ab5824085eccdbaf932ebd
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 2483
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7283c77636babdd46800e7f3c0ee5136
+      internalID: -1917161302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_1
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 2483
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef909f846f785dd459d4991543b10a4b
+      internalID: -1836318667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_2
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 2483
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a9d7d7ee6528a944bef4e58c9547109
+      internalID: -1934939186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_3
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 2483
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 819027674f6241e4fbff383b53bdae32
+      internalID: 526970930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_4
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 2484
+        width: 56
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b32141a935825a49a797dfcc67281dc
+      internalID: 1797697325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_5
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 2484
+        width: 53
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a278268ccaeee994794fa339a05c155e
+      internalID: -1702238553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_6
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 2484
+        width: 54
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15389e2c95b91424d96ac2fea40db165
+      internalID: 963298975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_7
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 2484
+        width: 55
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3715ff9ff7afc16409af09519079a424
+      internalID: -917181519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_8
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 2483
+        width: 63
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e4024ff78846bd4c9b7fd0d73146d13
+      internalID: -1981905455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_9
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 2483
+        width: 65
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd7dfbe7b5761cf4390d58881d239af5
+      internalID: -1351686268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_10
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 2363
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c65171b2017788428f4e38cd797006f
+      internalID: 1369159773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_11
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 2363
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04d41f6550ae13043abdfe2c6ab47014
+      internalID: 306634396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_12
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 2363
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78f48cf0603150b4480175ec0247797d
+      internalID: 237326393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_13
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 2365
+        width: 42
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8315884a33b511d4e80e2aa68266d877
+      internalID: -1209923899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_14
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 2377
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e677896c0a10ce4d99558212f0d817a
+      internalID: -122153185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_15
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 2365
+        width: 42
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f451130101c759e4d825598784d22759
+      internalID: 476374138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_16
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 2363
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 604e3c68d9be0c243b163a5af0ac31c9
+      internalID: 1884056251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_17
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 2363
+        width: 49
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d012d100a710be4bb4c51343a667cf2
+      internalID: -1254031891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_18
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 2375
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa7787d22972dca4f8a3f16b9b8b5a37
+      internalID: -1355915062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_19
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 2363
+        width: 45
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d96f8717f3b504a458a6ca183242da0e
+      internalID: 1632993580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_20
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 2244
+        width: 45
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b36e52c43f757744c838b65969cfca44
+      internalID: 1743566790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_21
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 2244
+        width: 51
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ef9fd06072eea344bc09ffcfef738c3
+      internalID: 959017478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_22
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 2244
+        width: 65
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53f839038ba0cb4488381e6bc05c9525
+      internalID: -1318495915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_23
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 2244
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f704dd77275ce024085b2f3944f32111
+      internalID: -695745043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_24
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 2244
+        width: 69
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7153cf19ba98828409342c91f8bfc1da
+      internalID: -1736545569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_25
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 2244
+        width: 51
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbd893ff9db84534b9f58e5ab13e4cd3
+      internalID: -564998550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_26
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 2244
+        width: 52
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83585b5a6b455bb46a722ef5bc870d04
+      internalID: -325357381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_27
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 2244
+        width: 51
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad14e6e69e6565e4d86fb821c60fd157
+      internalID: -971767706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_28
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 2246
+        width: 65
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 865277f3a4fae85449a74578fdc636cb
+      internalID: 1341454057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_29
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 2246
+        width: 65
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 684d2e06eb5711d41b729d88b47cd2aa
+      internalID: 1001622214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_30
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 2127
+        width: 65
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f8d7cc07aa28314cac8c2e870d9f3f0
+      internalID: 616284050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_31
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 2136
+        width: 60
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b68036555a559d24c836e2dcc3714e7c
+      internalID: -1555825974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_32
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 2138
+        width: 60
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa096a5e16fee30458e1e355e44475c6
+      internalID: 961172020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_33
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 2141
+        width: 65
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd5f0cfbf061eca48acc279315224bf0
+      internalID: -1591729207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_34
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 2136
+        width: 61
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a67906d525638b247b9a5ccbfab358f4
+      internalID: -802391756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_35
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 2125
+        width: 45
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a748b8ef85b5c546b3b4a9f77ff0d9d
+      internalID: 309690353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_36
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 2125
+        width: 44
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34d67b14471e69144a0b4b233b0e5e1e
+      internalID: 632606724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_37
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 2125
+        width: 31
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90bae823302b04f45b5ba808459989b4
+      internalID: -1090252389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_38
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 2123
+        width: 31
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d884a982593358489629bd7bea62df2
+      internalID: -1391276193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_39
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 2123
+        width: 33
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 836674898d0a6d84ea63169aa7a64554
+      internalID: -1903497812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_40
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 2007
+        width: 25
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30b572bc218b0a64d978f526f616ebd2
+      internalID: 819729747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_41
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 2006
+        width: 55
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f925dfd8c4b218f4c83edfed708bd7b3
+      internalID: 303995476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_42
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 2020
+        width: 58
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fcb195c9fedc8e46b428a9418f1c0d1
+      internalID: -453870757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_43
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 2016
+        width: 44
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7d2b05418abcbb48859ed29c2596e9e
+      internalID: -1614364353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_44
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 2011
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 273eb0b5ff3c5344da731d7a74c7425d
+      internalID: -1459027285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_45
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 2006
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eb84f176fa3da14bbba4b5a9a1aa9e8
+      internalID: -1407482435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_46
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 2006
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69447d7f755ee3f4caeccb445030ef3f
+      internalID: 262329280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_47
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 2007
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0939583f28d4f64eb9e44a09ad0bfae
+      internalID: 1387504034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_48
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 2005
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8678273d57f05a249b7f22862249ea29
+      internalID: -2014797950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_49
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 2009
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb8c28cf77f3d34d8930d645821314e
+      internalID: -67923526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_50
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1888
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e11ab215ca769234aaa7238611ff7d60
+      internalID: -1696505095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_51
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1899
+        width: 61
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69fd1c973bf749548a86dfca194b62c7
+      internalID: 1154910204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_52
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1888
+        width: 47
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d2b3a67a03124c42b4356c2ec70dd4c
+      internalID: -303457549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_53
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 1888
+        width: 49
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2cd9720693566f4f8e524e9bd14dbf9
+      internalID: -1285500428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_54
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1888
+        width: 46
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b159520f0522d94f9051587c14a0d8d
+      internalID: -479650586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_55
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 1888
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 814f3a689c7bce6419ac1e68eb2e1f5a
+      internalID: -113441918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_56
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 1888
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f412448b6f2ecce469eff1ce629eb215
+      internalID: -44439779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_57
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 1888
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84aa2fca9e5c51446af17a1aa0007861
+      internalID: -1036259099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_58
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 1888
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e9b2b5fe9913984189c5d65690132c1
+      internalID: 434463840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_59
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 1888
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b338fe1be7703084981ea4def4c5873d
+      internalID: 588091771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_60
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1770
+        width: 38
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7713f2b113b7cb14da61533529c4cc55
+      internalID: 221091137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_61
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1772
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b5ac74403515144991f376ca1f24bec
+      internalID: 1985945095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_62
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1775
+        width: 38
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d0f60c0add01704892067ad8c07805b
+      internalID: -494061990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_63
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 1772
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a43f425360c72d4a9ff7ce5b0983788
+      internalID: -482416117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_64
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1770
+        width: 38
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed737052ea654c4478aee9712a310675
+      internalID: -2010867935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_65
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1768
+        width: 45
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d447bdcf2140941498f741729a3f1dd2
+      internalID: -1406854633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_66
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 1768
+        width: 52
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c4ac46098ae514f9abe2a1aaffa669
+      internalID: 347423134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_67
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 1768
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d4c2c1b8695efd4188a62f84f37727a
+      internalID: 1471862110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_68
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1768
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93c4185d27df72b48b7e6c0649d1dd87
+      internalID: -736637469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_69
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 1768
+        width: 45
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e7920ea164e5e44ebafb660145ee93c
+      internalID: 75434606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_70
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1649
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 735531eac6515f243910b21d4b3a79c4
+      internalID: -314494340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_71
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1649
+        width: 65
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8509573e81322334f837bc325f05f814
+      internalID: -2053923626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_72
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1649
+        width: 65
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 312670c23a0c38a4aa8c856787d0b21e
+      internalID: -494508818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_73
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 1649
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ede7d213dbd29324488be09a377bc1fc
+      internalID: 1729143436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_74
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 1649
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ce50ebb1ca75af4dbe6c6a6f46ab047
+      internalID: 2031143559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_75
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 1649
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c86ec58f5e1aabf41961220fa9afc4d0
+      internalID: 412663742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_76
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 1649
+        width: 44
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f39f9fb4eb432584ab0b00c3fd5cc78d
+      internalID: -2018280408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_77
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 1652
+        width: 62
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf524db83bba6234ab0dbb58b7930868
+      internalID: 523391509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_78
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1652
+        width: 60
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1df8d956ee7101a4d913d129736f1864
+      internalID: -1408310795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_79
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 1652
+        width: 65
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7aac0d131628f74598a0157f0bdc94d
+      internalID: -70497794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_80
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1533
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ef5f31d1f5c0b34e87de569110eb82e
+      internalID: 252629025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_81
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1541
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4986e333c1ec22d4eb3ae7176e772dd8
+      internalID: -849620568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_82
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 1533
+        width: 62
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 826bcc780e5451d4dab1cc742eba15b1
+      internalID: -1780765629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_83
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1530
+        width: 45
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c36686414f187f48a835b73cb0570ce
+      internalID: 2110719333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_84
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 1530
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e514083d6d62df54da374e6fde885803
+      internalID: -2130501580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_85
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 1530
+        width: 59
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 778e512ec7d9e484ab879cbb5c4af8ad
+      internalID: 1174320824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_86
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 1530
+        width: 58
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d09e552a1625b0643beb18ef8c9832d2
+      internalID: 958574615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_87
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 1530
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a8c33480ffae5d4a92882b4273a06c9
+      internalID: 1263662056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_88
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 1530
+        width: 46
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e427aea0d8aab0418e5777b106dcad1
+      internalID: -1093930013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_89
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 1530
+        width: 46
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab8e261cceb2f11458b5cc7baa61568b
+      internalID: -1667583859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_90
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 1530
+        width: 48
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14f04e5c535e25e4da7178ca29b69692
+      internalID: 1428443299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_91
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1411
+        width: 49
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45ece1ba42a71f4468728489f368126f
+      internalID: 1339888913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_92
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 1411
+        width: 48
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dd7052ede54c8145bf5ee1094d008e5
+      internalID: -14653432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_93
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1411
+        width: 54
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93b016b12762d8a48aa70790fac9fc2c
+      internalID: 350919176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_94
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1411
+        width: 55
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d793978862e24cb43bf464f11c9d5f18
+      internalID: -939758591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_95
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1411
+        width: 45
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c068bfa88e146049b1d9dbe856901db
+      internalID: -1222557271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_96
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 1411
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48c343ca0114c0344b53ad73fd964f1c
+      internalID: -1957351233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_97
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 1411
+        width: 48
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8605c5d8644b50c409f32f6e29a38ad4
+      internalID: 1955313020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_98
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 1411
+        width: 57
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f87555986b23e5a4fbbb1cbf5f184cce
+      internalID: 1544153731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_99
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 1411
+        width: 57
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 112e829c8dbd6184d9554eb7092f4e39
+      internalID: -1645315140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_100
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 1411
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5d7bfdcb8842c547b435969ecb701ef
+      internalID: -1866697468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_101
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1292
+        width: 41
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cdaf508c14516842b5a13aeb220ef4b
+      internalID: 1846945744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_102
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1292
+        width: 54
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc60bfd46194d4b48831155f688e9730
+      internalID: 1270246329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_103
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 1294
+        width: 59
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b645e29780f752d4ca48d725fe95742f
+      internalID: -2035665980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_104
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 1295
+        width: 65
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20a9bda33877fb347bca9eb7e9fdb7e7
+      internalID: -293086764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_105
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1292
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be5d83da4d206894b8006203087fe427
+      internalID: 468713572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_106
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 1292
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e74d1ddddbd14f4cb60915d6f7a0f60
+      internalID: -1888212161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_107
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 1292
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f7e272f08e23b04b8002aee793daead
+      internalID: 1416691712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_108
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 1292
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb0f35fb75bac4e4899ef4320951f325
+      internalID: -1820492224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_109
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 1166
+        width: 48
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa1785efd2959e84d9736758ad172c6b
+      internalID: -631588299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_110
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 1296
+        width: 45
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a3e931610afa7040a7902b8927bed58
+      internalID: -412324539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_111
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1183
+        width: 54
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f7242b79e7b614abe4ac6904d2e81f
+      internalID: 525793376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_112
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1205
+        width: 59
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72992dc20d4d6f5488020ced37b977d9
+      internalID: 1844850568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_113
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1196
+        width: 41
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcd4bc47168700646b8bbf58b7f56899
+      internalID: 886228391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_114
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1194
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fc389d667da5a14abd99a19905e9329
+      internalID: -756378313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_115
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1176
+        width: 38
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6dc19dc3ec5e3845996d8ae90a17e23
+      internalID: -420071550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_116
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 1173
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad3835d42ba24c94f92c4f24f2f4d3e6
+      internalID: 1120894492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_117
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 1181
+        width: 41
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3af326cbab165ad4faa729e986e30862
+      internalID: -1425858154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_118
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 1173
+        width: 33
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e3f58fa75a239f46be697b7c51404a8
+      internalID: -2098912853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_119
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 1173
+        width: 42
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adef3527c0eaa174aae22b8a2f39b543
+      internalID: -2091700786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_120
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1057
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e82718376da550a479a125887e18554b
+      internalID: 585406956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_121
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 1054
+        width: 46
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e798345400b1a438cd20efec71e24e
+      internalID: -1121154067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_122
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1054
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 992a4d89fdccfe846ab12c0d8fc01e85
+      internalID: 490097948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_123
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 1054
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f34cab6fa2ed40742b6d82e814220260
+      internalID: -1983970486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_124
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1054
+        width: 61
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05c331204a93d554abba8a987893fa61
+      internalID: 1185780097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_125
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 1054
+        width: 61
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a7069374a18fa0408628b04382d8b1e
+      internalID: -184185585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_126
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 1054
+        width: 62
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f16e3778040ee2747847e0405fa89265
+      internalID: -1475248507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_127
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 1054
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1193921c53d1a7a4bafdd85f82b5ad51
+      internalID: -1212510417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_128
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 1054
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f056085a1a6c4e41a506b1a6fb97880
+      internalID: -1456050479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_129
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 1054
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1af8ce3716813124582892122f118d4c
+      internalID: 961424247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_130
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 936
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abdaac3b650f91d4082ec779e3698b54
+      internalID: 855121530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_131
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 936
+        width: 53
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 296032fe395d3494c97587c304234e7c
+      internalID: 903721125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_132
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 936
+        width: 54
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dcdec6d31f027b4aa8e583b6cb564c3
+      internalID: -1912612063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_133
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 936
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d52689825805d84090a7d549bd18d5c
+      internalID: -641836273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_134
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 941
+        width: 41
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5995919c8302d9408c54cc43d0b7c82
+      internalID: -2135630179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_135
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 942
+        width: 45
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b8d374abd1a354799ba4379012d3f0
+      internalID: 1561530586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_136
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 937
+        width: 56
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f423b2f98d4aa04ea5f2d213512e43b
+      internalID: -246958308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_137
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 937
+        width: 56
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a42882f74507ef43899d936dacd50eb
+      internalID: 1855038190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_138
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 936
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcb053e7adc00f9408432561ec981d5a
+      internalID: 1551589605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_139
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 958
+        width: 40
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a93ad1e20e08d0a42b31b652c16d160f
+      internalID: 1731889604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_140
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 822
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d68b831529eda8c4b84710f7c61cb87c
+      internalID: -174861656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_141
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 822
+        width: 51
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 288f29ce14cd8b04892823d236a6ca41
+      internalID: -843560264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_142
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 822
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5902665278b3bb44ea6c1b034bd53fd8
+      internalID: -1255339580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_143
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 822
+        width: 51
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c4ec8b3799e679478467ab31ad7761c
+      internalID: 1913651421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_144
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 816
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e477d0af694ebd540870f1ff0d5529f6
+      internalID: 1399384368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_145
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 816
+        width: 45
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9f3d796987675f4bb90eaba28c5b1ae
+      internalID: -939895910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_146
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 816
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 544595ebd211ffe4f80b270c15e7548a
+      internalID: -886187578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_147
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 832
+        width: 40
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f2af748f20c37849aa8bc03ed229f37
+      internalID: 552719289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_148
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 822
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 045cc86292371de40af858bdf325bb4c
+      internalID: -1532666546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_149
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 816
+        width: 46
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78a5e7554cadf8042a22645a47fb6ae6
+      internalID: 26136457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_150
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 697
+        width: 45
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ea55a15d96fbb344a43c65aa9ddfb7c
+      internalID: 798810819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_151
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 697
+        width: 43
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62261986da944cb469aff4b8810dea0d
+      internalID: -1400901339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_152
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 700
+        width: 61
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 761c342480c52a44b91ed8bb793c5adc
+      internalID: 1887528203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_153
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 700
+        width: 60
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee81754a57873eb4698ebfc8bb447512
+      internalID: 190162150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_154
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 700
+        width: 65
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d6de2eb710f1d4ab2005661eaf905a
+      internalID: -1595681847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_155
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 700
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1f75cafe056ff5478c99c99542bd5a4
+      internalID: -394458010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_156
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 700
+        width: 61
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ee9c35b100b0dc40a75189077a1eb0d
+      internalID: -1711578653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_157
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 710
+        width: 55
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d051f92d5d7443a45a8caf00a8d9f789
+      internalID: 310138719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_158
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 684
+        width: 59
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bba2f3e838ace5849b652a732b4008c2
+      internalID: -930544061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_159
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 717
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b85fddec6b20ec14d88a41ebe4c34fd4
+      internalID: -12661370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_160
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 694
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14bdf449ec7970c4d879808c8daef984
+      internalID: -459882758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_161
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 717
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e62064bc55141d1489465bfbd8b20de5
+      internalID: -346770946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_162
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 709
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08be53776b1322440a3d8f56ca48a581
+      internalID: -323029462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_163
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 578
+        width: 51
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71789ee746227c141b6d4c0c015002e1
+      internalID: -778791398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_164
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 500
+        width: 47
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d50678949df0ea42a6880655ba79caf
+      internalID: -964236543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_165
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 500
+        width: 46
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7d7c02018ca3364bb31cd15c0c424be
+      internalID: 959775792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_166
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 500
+        width: 44
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d35a75d6323094581b838d2e4d2af2
+      internalID: -608095352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_167
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 500
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2369f0243b028f04cab80402dd747d1e
+      internalID: 2034414696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_168
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 500
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac110e1934137c54da2d011618e80028
+      internalID: 1665992993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_169
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 500
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48c28474347feb24b838ba4f1e6065ad
+      internalID: -198310559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_170
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 500
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96e19fa7039a0284cbe65727dee4dd72
+      internalID: -1090898028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_171
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 500
+        width: 55
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e2fc1d596a6c224aa3a1ba9513ae174
+      internalID: 773959961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_172
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 500
+        width: 55
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d5a4404183f01a4ba0687324dcda003
+      internalID: 1869785671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_173
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 500
+        width: 49
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d73a1211ec2116419a7177bb78c98cc
+      internalID: 676721210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_174
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 430
+        width: 39
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 135108226ea452c489cf61444a15389b
+      internalID: 1015921855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_175
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 430
+        width: 33
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bb35032f866e0c46a0b88c35a8c4645
+      internalID: -1665183628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_176
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 430
+        width: 38
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dab627d1c2a2544a87f03922850197d
+      internalID: -100971382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_177
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 430
+        width: 42
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f002d3185204abf4c9075c3418ef89b4
+      internalID: 1739286411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_178
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 430
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26836957e71106647b8f66df7702f8a5
+      internalID: -1419811120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_179
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 430
+        width: 49
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 183600b84ebd52e42a4ebcdc2c735327
+      internalID: 915162057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_180
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 430
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f6e1f0a1a3932e4493a4a175f30dd5c
+      internalID: 333449803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_181
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 430
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23033a2dc38c618428824f3798d78d80
+      internalID: 1581684485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_182
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 353
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2250a1feca4b0f84e9d1c07a6ba958b0
+      internalID: -1284732362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_183
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 353
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7c7ad33ce80ea84ea4379032e71bf4c
+      internalID: 968910449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_184
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 353
+        width: 45
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30951a0c4124de4429e415f71e1366be
+      internalID: -1938221024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_185
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 353
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bae6f8a8c5c4c94da472c5ebd4ffbdb
+      internalID: 801698474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_186
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 353
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b016a08c51d51f489dc11e4f95f9c52
+      internalID: 1176054466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_187
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 353
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13bfb135ab29b7149907d9d39e3b8100
+      internalID: 1127552115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_188
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 353
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8e664db429b9a149ba84be5332eebef
+      internalID: 1071997353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_189
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 353
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db98bd4e0b88e584a81b33b9711dc36e
+      internalID: 548541060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_190
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 353
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17e9fc672be5b584e9ea4f73a66abfec
+      internalID: 535080019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_191
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 353
+        width: 55
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 259977e201487b546aa831762a975191
+      internalID: -795115290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_192
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 267
+        width: 55
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ce30c7941d516143a290bd10f66f078
+      internalID: 814731280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_193
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 267
+        width: 49
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37220e6d419decc41bd441b3f687f5a2
+      internalID: 312421937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_194
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 267
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fab9d5419864f2428bc275861f05788
+      internalID: -1686178678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_195
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 267
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37d24b2904cf64541879013a8549acea
+      internalID: -1364721030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_196
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 269
+        width: 58
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 185fb86bd290d234f86de065e2ac0cc7
+      internalID: 1895602637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_197
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 269
+        width: 57
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 224950ab62a95c94ca02db77eb360fbe
+      internalID: 1989448190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_198
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 268
+        width: 45
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9113a88901451244ba72b3de73748e76
+      internalID: 1767606917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_199
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 276
+        width: 56
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64be98aa49ef52f4d96f6df10690ec20
+      internalID: 868957539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_200
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 281
+        width: 65
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bac04aaad72dad745a496aaf131ec4f0
+      internalID: -1986723086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_201
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 272
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0009ed03378512e43b4cf08a78234e03
+      internalID: 531338515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_202
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 181
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e121941d3c25e542b6b9f003c147e89
+      internalID: -919337863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_203
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 181
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92a5fa23343eb3c4898a0514ca06df20
+      internalID: 1362634018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_204
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 181
+        width: 65
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2903caeeef98ecc47981087b613bd24f
+      internalID: 843758177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_205
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 181
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c337dccc2faf0f349a7de105427093d1
+      internalID: 1705575847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_206
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 185
+        width: 45
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fc02bd8d1241504ab916dcfdae1d89b
+      internalID: -1899089774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_207
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 190
+        width: 54
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5326806cc7c79914aa9aeb77d055de19
+      internalID: 630878570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_208
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 213
+        width: 59
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cad6cd676b7012040879c6ab31d7ca62
+      internalID: 1878444553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_209
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 205
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 732395c8192eb7a4fb7b7b3412de1d71
+      internalID: -1750641304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_210
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 185
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 887bddcfff1abd74ab5d46aa721d4f13
+      internalID: 200940922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_211
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 181
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e81d2bc8868195419f6d12276270853
+      internalID: 205467002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_212
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 95
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a8a4d1dda59ae24ebce3267e9f585f8
+      internalID: 1316495669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_213
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 95
+        width: 58
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b4ff66009fbdfe418b94e5121bbc55c
+      internalID: -1841725918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_214
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 95
+        width: 59
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdebeca9a77b564479940c530d1c7db3
+      internalID: 442695269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_215
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 95
+        width: 48
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 807f4706933ea934497ab4ad1f60b518
+      internalID: -915694332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_216
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 95
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77bcc3beb364cb5488cc8791a755c2a4
+      internalID: -478887326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_217
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 96
+        width: 54
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91cc73b91f9b15e4e8fce21ab4bde426
+      internalID: 669358697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_218
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 97
+        width: 58
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f43765d58f0355409c813a930dfa02e
+      internalID: -882725007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_219
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 99
+        width: 65
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7645473f4a0dfb941b5c8ced542c53ef
+      internalID: 1845712767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_220
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 96
+        width: 60
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3caa79842e21cc4fba5a201afc27bf1
+      internalID: -1378728421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_221
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 96
+        width: 59
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddc74ed62f0c4f34cac8434a71a3a42f
+      internalID: -321462256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_222
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 9
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37cfe6500dbf2e146affe5afbd2404a7
+      internalID: -862104702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Goku_223
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 0
+        width: 157
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a808eb9bf4b2384da1da32008c42e29
+      internalID: 780408586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      DS DSi - Jump Ultimate Stars - Goku_0: -1917161302
+      DS DSi - Jump Ultimate Stars - Goku_1: -1836318667
+      DS DSi - Jump Ultimate Stars - Goku_10: 1369159773
+      DS DSi - Jump Ultimate Stars - Goku_100: -1866697468
+      DS DSi - Jump Ultimate Stars - Goku_101: 1846945744
+      DS DSi - Jump Ultimate Stars - Goku_102: 1270246329
+      DS DSi - Jump Ultimate Stars - Goku_103: -2035665980
+      DS DSi - Jump Ultimate Stars - Goku_104: -293086764
+      DS DSi - Jump Ultimate Stars - Goku_105: 468713572
+      DS DSi - Jump Ultimate Stars - Goku_106: -1888212161
+      DS DSi - Jump Ultimate Stars - Goku_107: 1416691712
+      DS DSi - Jump Ultimate Stars - Goku_108: -1820492224
+      DS DSi - Jump Ultimate Stars - Goku_109: -631588299
+      DS DSi - Jump Ultimate Stars - Goku_11: 306634396
+      DS DSi - Jump Ultimate Stars - Goku_110: -412324539
+      DS DSi - Jump Ultimate Stars - Goku_111: 525793376
+      DS DSi - Jump Ultimate Stars - Goku_112: 1844850568
+      DS DSi - Jump Ultimate Stars - Goku_113: 886228391
+      DS DSi - Jump Ultimate Stars - Goku_114: -756378313
+      DS DSi - Jump Ultimate Stars - Goku_115: -420071550
+      DS DSi - Jump Ultimate Stars - Goku_116: 1120894492
+      DS DSi - Jump Ultimate Stars - Goku_117: -1425858154
+      DS DSi - Jump Ultimate Stars - Goku_118: -2098912853
+      DS DSi - Jump Ultimate Stars - Goku_119: -2091700786
+      DS DSi - Jump Ultimate Stars - Goku_12: 237326393
+      DS DSi - Jump Ultimate Stars - Goku_120: 585406956
+      DS DSi - Jump Ultimate Stars - Goku_121: -1121154067
+      DS DSi - Jump Ultimate Stars - Goku_122: 490097948
+      DS DSi - Jump Ultimate Stars - Goku_123: -1983970486
+      DS DSi - Jump Ultimate Stars - Goku_124: 1185780097
+      DS DSi - Jump Ultimate Stars - Goku_125: -184185585
+      DS DSi - Jump Ultimate Stars - Goku_126: -1475248507
+      DS DSi - Jump Ultimate Stars - Goku_127: -1212510417
+      DS DSi - Jump Ultimate Stars - Goku_128: -1456050479
+      DS DSi - Jump Ultimate Stars - Goku_129: 961424247
+      DS DSi - Jump Ultimate Stars - Goku_13: -1209923899
+      DS DSi - Jump Ultimate Stars - Goku_130: 855121530
+      DS DSi - Jump Ultimate Stars - Goku_131: 903721125
+      DS DSi - Jump Ultimate Stars - Goku_132: -1912612063
+      DS DSi - Jump Ultimate Stars - Goku_133: -641836273
+      DS DSi - Jump Ultimate Stars - Goku_134: -2135630179
+      DS DSi - Jump Ultimate Stars - Goku_135: 1561530586
+      DS DSi - Jump Ultimate Stars - Goku_136: -246958308
+      DS DSi - Jump Ultimate Stars - Goku_137: 1855038190
+      DS DSi - Jump Ultimate Stars - Goku_138: 1551589605
+      DS DSi - Jump Ultimate Stars - Goku_139: 1731889604
+      DS DSi - Jump Ultimate Stars - Goku_14: -122153185
+      DS DSi - Jump Ultimate Stars - Goku_140: -174861656
+      DS DSi - Jump Ultimate Stars - Goku_141: -843560264
+      DS DSi - Jump Ultimate Stars - Goku_142: -1255339580
+      DS DSi - Jump Ultimate Stars - Goku_143: 1913651421
+      DS DSi - Jump Ultimate Stars - Goku_144: 1399384368
+      DS DSi - Jump Ultimate Stars - Goku_145: -939895910
+      DS DSi - Jump Ultimate Stars - Goku_146: -886187578
+      DS DSi - Jump Ultimate Stars - Goku_147: 552719289
+      DS DSi - Jump Ultimate Stars - Goku_148: -1532666546
+      DS DSi - Jump Ultimate Stars - Goku_149: 26136457
+      DS DSi - Jump Ultimate Stars - Goku_15: 476374138
+      DS DSi - Jump Ultimate Stars - Goku_150: 798810819
+      DS DSi - Jump Ultimate Stars - Goku_151: -1400901339
+      DS DSi - Jump Ultimate Stars - Goku_152: 1887528203
+      DS DSi - Jump Ultimate Stars - Goku_153: 190162150
+      DS DSi - Jump Ultimate Stars - Goku_154: -1595681847
+      DS DSi - Jump Ultimate Stars - Goku_155: -394458010
+      DS DSi - Jump Ultimate Stars - Goku_156: -1711578653
+      DS DSi - Jump Ultimate Stars - Goku_157: 310138719
+      DS DSi - Jump Ultimate Stars - Goku_158: -930544061
+      DS DSi - Jump Ultimate Stars - Goku_159: -12661370
+      DS DSi - Jump Ultimate Stars - Goku_16: 1884056251
+      DS DSi - Jump Ultimate Stars - Goku_160: -459882758
+      DS DSi - Jump Ultimate Stars - Goku_161: -346770946
+      DS DSi - Jump Ultimate Stars - Goku_162: -323029462
+      DS DSi - Jump Ultimate Stars - Goku_163: -778791398
+      DS DSi - Jump Ultimate Stars - Goku_164: -964236543
+      DS DSi - Jump Ultimate Stars - Goku_165: 959775792
+      DS DSi - Jump Ultimate Stars - Goku_166: -608095352
+      DS DSi - Jump Ultimate Stars - Goku_167: 2034414696
+      DS DSi - Jump Ultimate Stars - Goku_168: 1665992993
+      DS DSi - Jump Ultimate Stars - Goku_169: -198310559
+      DS DSi - Jump Ultimate Stars - Goku_17: -1254031891
+      DS DSi - Jump Ultimate Stars - Goku_170: -1090898028
+      DS DSi - Jump Ultimate Stars - Goku_171: 773959961
+      DS DSi - Jump Ultimate Stars - Goku_172: 1869785671
+      DS DSi - Jump Ultimate Stars - Goku_173: 676721210
+      DS DSi - Jump Ultimate Stars - Goku_174: 1015921855
+      DS DSi - Jump Ultimate Stars - Goku_175: -1665183628
+      DS DSi - Jump Ultimate Stars - Goku_176: -100971382
+      DS DSi - Jump Ultimate Stars - Goku_177: 1739286411
+      DS DSi - Jump Ultimate Stars - Goku_178: -1419811120
+      DS DSi - Jump Ultimate Stars - Goku_179: 915162057
+      DS DSi - Jump Ultimate Stars - Goku_18: -1355915062
+      DS DSi - Jump Ultimate Stars - Goku_180: 333449803
+      DS DSi - Jump Ultimate Stars - Goku_181: 1581684485
+      DS DSi - Jump Ultimate Stars - Goku_182: -1284732362
+      DS DSi - Jump Ultimate Stars - Goku_183: 968910449
+      DS DSi - Jump Ultimate Stars - Goku_184: -1938221024
+      DS DSi - Jump Ultimate Stars - Goku_185: 801698474
+      DS DSi - Jump Ultimate Stars - Goku_186: 1176054466
+      DS DSi - Jump Ultimate Stars - Goku_187: 1127552115
+      DS DSi - Jump Ultimate Stars - Goku_188: 1071997353
+      DS DSi - Jump Ultimate Stars - Goku_189: 548541060
+      DS DSi - Jump Ultimate Stars - Goku_19: 1632993580
+      DS DSi - Jump Ultimate Stars - Goku_190: 535080019
+      DS DSi - Jump Ultimate Stars - Goku_191: -795115290
+      DS DSi - Jump Ultimate Stars - Goku_192: 814731280
+      DS DSi - Jump Ultimate Stars - Goku_193: 312421937
+      DS DSi - Jump Ultimate Stars - Goku_194: -1686178678
+      DS DSi - Jump Ultimate Stars - Goku_195: -1364721030
+      DS DSi - Jump Ultimate Stars - Goku_196: 1895602637
+      DS DSi - Jump Ultimate Stars - Goku_197: 1989448190
+      DS DSi - Jump Ultimate Stars - Goku_198: 1767606917
+      DS DSi - Jump Ultimate Stars - Goku_199: 868957539
+      DS DSi - Jump Ultimate Stars - Goku_2: -1934939186
+      DS DSi - Jump Ultimate Stars - Goku_20: 1743566790
+      DS DSi - Jump Ultimate Stars - Goku_200: -1986723086
+      DS DSi - Jump Ultimate Stars - Goku_201: 531338515
+      DS DSi - Jump Ultimate Stars - Goku_202: -919337863
+      DS DSi - Jump Ultimate Stars - Goku_203: 1362634018
+      DS DSi - Jump Ultimate Stars - Goku_204: 843758177
+      DS DSi - Jump Ultimate Stars - Goku_205: 1705575847
+      DS DSi - Jump Ultimate Stars - Goku_206: -1899089774
+      DS DSi - Jump Ultimate Stars - Goku_207: 630878570
+      DS DSi - Jump Ultimate Stars - Goku_208: 1878444553
+      DS DSi - Jump Ultimate Stars - Goku_209: -1750641304
+      DS DSi - Jump Ultimate Stars - Goku_21: 959017478
+      DS DSi - Jump Ultimate Stars - Goku_210: 200940922
+      DS DSi - Jump Ultimate Stars - Goku_211: 205467002
+      DS DSi - Jump Ultimate Stars - Goku_212: 1316495669
+      DS DSi - Jump Ultimate Stars - Goku_213: -1841725918
+      DS DSi - Jump Ultimate Stars - Goku_214: 442695269
+      DS DSi - Jump Ultimate Stars - Goku_215: -915694332
+      DS DSi - Jump Ultimate Stars - Goku_216: -478887326
+      DS DSi - Jump Ultimate Stars - Goku_217: 669358697
+      DS DSi - Jump Ultimate Stars - Goku_218: -882725007
+      DS DSi - Jump Ultimate Stars - Goku_219: 1845712767
+      DS DSi - Jump Ultimate Stars - Goku_22: -1318495915
+      DS DSi - Jump Ultimate Stars - Goku_220: -1378728421
+      DS DSi - Jump Ultimate Stars - Goku_221: -321462256
+      DS DSi - Jump Ultimate Stars - Goku_222: -862104702
+      DS DSi - Jump Ultimate Stars - Goku_223: 780408586
+      DS DSi - Jump Ultimate Stars - Goku_23: -695745043
+      DS DSi - Jump Ultimate Stars - Goku_24: -1736545569
+      DS DSi - Jump Ultimate Stars - Goku_25: -564998550
+      DS DSi - Jump Ultimate Stars - Goku_26: -325357381
+      DS DSi - Jump Ultimate Stars - Goku_27: -971767706
+      DS DSi - Jump Ultimate Stars - Goku_28: 1341454057
+      DS DSi - Jump Ultimate Stars - Goku_29: 1001622214
+      DS DSi - Jump Ultimate Stars - Goku_3: 526970930
+      DS DSi - Jump Ultimate Stars - Goku_30: 616284050
+      DS DSi - Jump Ultimate Stars - Goku_31: -1555825974
+      DS DSi - Jump Ultimate Stars - Goku_32: 961172020
+      DS DSi - Jump Ultimate Stars - Goku_33: -1591729207
+      DS DSi - Jump Ultimate Stars - Goku_34: -802391756
+      DS DSi - Jump Ultimate Stars - Goku_35: 309690353
+      DS DSi - Jump Ultimate Stars - Goku_36: 632606724
+      DS DSi - Jump Ultimate Stars - Goku_37: -1090252389
+      DS DSi - Jump Ultimate Stars - Goku_38: -1391276193
+      DS DSi - Jump Ultimate Stars - Goku_39: -1903497812
+      DS DSi - Jump Ultimate Stars - Goku_4: 1797697325
+      DS DSi - Jump Ultimate Stars - Goku_40: 819729747
+      DS DSi - Jump Ultimate Stars - Goku_41: 303995476
+      DS DSi - Jump Ultimate Stars - Goku_42: -453870757
+      DS DSi - Jump Ultimate Stars - Goku_43: -1614364353
+      DS DSi - Jump Ultimate Stars - Goku_44: -1459027285
+      DS DSi - Jump Ultimate Stars - Goku_45: -1407482435
+      DS DSi - Jump Ultimate Stars - Goku_46: 262329280
+      DS DSi - Jump Ultimate Stars - Goku_47: 1387504034
+      DS DSi - Jump Ultimate Stars - Goku_48: -2014797950
+      DS DSi - Jump Ultimate Stars - Goku_49: -67923526
+      DS DSi - Jump Ultimate Stars - Goku_5: -1702238553
+      DS DSi - Jump Ultimate Stars - Goku_50: -1696505095
+      DS DSi - Jump Ultimate Stars - Goku_51: 1154910204
+      DS DSi - Jump Ultimate Stars - Goku_52: -303457549
+      DS DSi - Jump Ultimate Stars - Goku_53: -1285500428
+      DS DSi - Jump Ultimate Stars - Goku_54: -479650586
+      DS DSi - Jump Ultimate Stars - Goku_55: -113441918
+      DS DSi - Jump Ultimate Stars - Goku_56: -44439779
+      DS DSi - Jump Ultimate Stars - Goku_57: -1036259099
+      DS DSi - Jump Ultimate Stars - Goku_58: 434463840
+      DS DSi - Jump Ultimate Stars - Goku_59: 588091771
+      DS DSi - Jump Ultimate Stars - Goku_6: 963298975
+      DS DSi - Jump Ultimate Stars - Goku_60: 221091137
+      DS DSi - Jump Ultimate Stars - Goku_61: 1985945095
+      DS DSi - Jump Ultimate Stars - Goku_62: -494061990
+      DS DSi - Jump Ultimate Stars - Goku_63: -482416117
+      DS DSi - Jump Ultimate Stars - Goku_64: -2010867935
+      DS DSi - Jump Ultimate Stars - Goku_65: -1406854633
+      DS DSi - Jump Ultimate Stars - Goku_66: 347423134
+      DS DSi - Jump Ultimate Stars - Goku_67: 1471862110
+      DS DSi - Jump Ultimate Stars - Goku_68: -736637469
+      DS DSi - Jump Ultimate Stars - Goku_69: 75434606
+      DS DSi - Jump Ultimate Stars - Goku_7: -917181519
+      DS DSi - Jump Ultimate Stars - Goku_70: -314494340
+      DS DSi - Jump Ultimate Stars - Goku_71: -2053923626
+      DS DSi - Jump Ultimate Stars - Goku_72: -494508818
+      DS DSi - Jump Ultimate Stars - Goku_73: 1729143436
+      DS DSi - Jump Ultimate Stars - Goku_74: 2031143559
+      DS DSi - Jump Ultimate Stars - Goku_75: 412663742
+      DS DSi - Jump Ultimate Stars - Goku_76: -2018280408
+      DS DSi - Jump Ultimate Stars - Goku_77: 523391509
+      DS DSi - Jump Ultimate Stars - Goku_78: -1408310795
+      DS DSi - Jump Ultimate Stars - Goku_79: -70497794
+      DS DSi - Jump Ultimate Stars - Goku_8: -1981905455
+      DS DSi - Jump Ultimate Stars - Goku_80: 252629025
+      DS DSi - Jump Ultimate Stars - Goku_81: -849620568
+      DS DSi - Jump Ultimate Stars - Goku_82: -1780765629
+      DS DSi - Jump Ultimate Stars - Goku_83: 2110719333
+      DS DSi - Jump Ultimate Stars - Goku_84: -2130501580
+      DS DSi - Jump Ultimate Stars - Goku_85: 1174320824
+      DS DSi - Jump Ultimate Stars - Goku_86: 958574615
+      DS DSi - Jump Ultimate Stars - Goku_87: 1263662056
+      DS DSi - Jump Ultimate Stars - Goku_88: -1093930013
+      DS DSi - Jump Ultimate Stars - Goku_89: -1667583859
+      DS DSi - Jump Ultimate Stars - Goku_9: -1351686268
+      DS DSi - Jump Ultimate Stars - Goku_90: 1428443299
+      DS DSi - Jump Ultimate Stars - Goku_91: 1339888913
+      DS DSi - Jump Ultimate Stars - Goku_92: -14653432
+      DS DSi - Jump Ultimate Stars - Goku_93: 350919176
+      DS DSi - Jump Ultimate Stars - Goku_94: -939758591
+      DS DSi - Jump Ultimate Stars - Goku_95: -1222557271
+      DS DSi - Jump Ultimate Stars - Goku_96: -1957351233
+      DS DSi - Jump Ultimate Stars - Goku_97: 1955313020
+      DS DSi - Jump Ultimate Stars - Goku_98: 1544153731
+      DS DSi - Jump Ultimate Stars - Goku_99: -1645315140
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
