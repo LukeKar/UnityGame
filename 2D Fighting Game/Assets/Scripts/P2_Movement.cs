@@ -38,11 +38,21 @@ public class P2_Movement : MonoBehaviour {
         float moveInput2 = Input.GetAxisRaw("HorizontalArrows") * moveSpeed2;
         rb2.velocity = new Vector2(Input.GetAxisRaw("HorizontalArrows") * moveSpeed2, rb2.velocity.y);
 
+
+        
+
         //theRB.velocity = new Vector2(Input.GetAxisRaw("Horizontal") * moveSpeed, theRB.velocity.y);
 
 
          if (moveInput2 != 0){
             animator.SetBool("Iswalking", true);
+                if (moveInput2 > 0){
+                    gameObject.transform.localScale = new Vector3(5, 5, 1);
+                }
+                if (moveInput2 < 0){
+                    gameObject.transform.localScale = new Vector3(-5, 5, 1);  
+                }
+            
         }
         else{
             animator.SetBool("Iswalking", false);

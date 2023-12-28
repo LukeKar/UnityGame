@@ -44,6 +44,12 @@ public class P1_Movement : MonoBehaviour
 
         if (moveInput != 0){
             animator.SetBool("Is_walking", true);
+            if (moveInput > 0){
+                gameObject.transform.localScale = new Vector3(5, 5, 1);
+            }
+            if (moveInput < 0){
+                gameObject.transform.localScale = new Vector3(-5, 5, 1);  
+            }
         }
         else{
             animator.SetBool("Is_walking", false);

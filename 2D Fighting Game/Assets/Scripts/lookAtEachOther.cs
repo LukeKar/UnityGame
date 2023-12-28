@@ -22,6 +22,8 @@ public class lookAtEachOther : MonoBehaviour
         } else {
             scale.x = Mathf.Abs(scale.x) * (flip ? -1 : 1);;
         }
+
+
         transform.localScale = scale;
     }
 }
