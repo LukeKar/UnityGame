@@ -5,6 +5,8 @@ using UnityEngine;
 public class P2_Movement : MonoBehaviour {
     public Rigidbody2D rb2;
     public Animator animator;
+    public static P2_Movement instance;
+    public bool isAttacking = false;
     [SerializeField] private float moveSpeed2;
     [SerializeField] private float jumpForce2;
     public GameObject GroundPoint;
@@ -12,10 +14,12 @@ public class P2_Movement : MonoBehaviour {
     public LayerMask whatIsGround;
     private void Awake() {
         rb2 = GetComponent<Rigidbody2D>();
+        instance = this;
     }
     void Start() {
         moveSpeed2 = 9.0f;
         jumpForce2 = 20.0f;
+        animator = GetComponent<Animator>();
     }
 
     // Update is called once per frame
@@ -39,7 +43,8 @@ public class P2_Movement : MonoBehaviour {
         rb2.velocity = new Vector2(Input.GetAxisRaw("HorizontalArrows") * moveSpeed2, rb2.velocity.y);
 
 
-        
+
+        attack();        
 
         //theRB.velocity = new Vector2(Input.GetAxisRaw("Horizontal") * moveSpeed, theRB.velocity.y);
 
@@ -60,4 +65,17 @@ public class P2_Movement : MonoBehaviour {
         
         
     }
+
+
+
+    void attack()
+    {
+        if (Input.GetKeyDown(KeyCode.Backspace) && !isAttacking)
+        {
+            isAttacking = true;
+        }
+    }
+
+
+
 }

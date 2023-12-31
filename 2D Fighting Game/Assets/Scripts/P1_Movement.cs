@@ -6,8 +6,8 @@ public class P1_Movement : MonoBehaviour
 {
     public Rigidbody2D rb;
     public Animator animator;
-
-
+    public static P1_Movement instance;
+    public bool isAttacking = false;
     [SerializeField] private float moveSpeed;
     [SerializeField] private float jumpForce;
     public GameObject GroundPoint;
@@ -15,11 +15,13 @@ public class P1_Movement : MonoBehaviour
     public LayerMask whatIsGround;
     private void Awake() {
         rb = GetComponent<Rigidbody2D>();
+        instance = this;
     }
     void Start()
     {
         moveSpeed = 9.0f;
         jumpForce = 20.0f;
+        animator = GetComponent<Animator>();
     }
 
     // Update is called once per frame
@@ -42,6 +44,10 @@ public class P1_Movement : MonoBehaviour
         float moveInput = Input.GetAxisRaw("Horizontal") * moveSpeed;
         rb.velocity = new Vector2(Input.GetAxisRaw("Horizontal") * moveSpeed, rb.velocity.y);
 
+
+        attack();
+
+
         if (moveInput != 0){
             animator.SetBool("Is_walking", true);
             if (moveInput > 0){
@@ -58,5 +64,15 @@ public class P1_Movement : MonoBehaviour
         //theRB.velocity = new Vector2(Input.GetAxisRaw("Horizontal") * moveSpeed, theRB.velocity.y);
 
         
+        void attack()
+        {
+            if (Input.GetKeyDown(KeyCode.J) && !isAttacking)
+            {
+                isAttacking = true;
+            }
+        }
+
+
+
     }
 }

@@ -6,7 +6,7 @@ AnimationClip:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: vegete_la
+  m_Name: vegeta_la
   serializedVersion: 7
   m_Legacy: 0
   m_Compressed: 0
@@ -24,10 +24,6 @@ AnimationClip:
       value: {fileID: 591047451, guid: d8a33a0f48e4e1f49ac26004d98c98ab, type: 3}
     - time: 0.1
       value: {fileID: -1724606305, guid: d8a33a0f48e4e1f49ac26004d98c98ab, type: 3}
-    - time: 0.2
-      value: {fileID: -976290314, guid: d8a33a0f48e4e1f49ac26004d98c98ab, type: 3}
-    - time: 0.3
-      value: {fileID: -177067211, guid: d8a33a0f48e4e1f49ac26004d98c98ab, type: 3}
     attribute: m_Sprite
     path: 
     classID: 212
@@ -52,14 +48,12 @@ AnimationClip:
     pptrCurveMapping:
     - {fileID: 591047451, guid: d8a33a0f48e4e1f49ac26004d98c98ab, type: 3}
     - {fileID: -1724606305, guid: d8a33a0f48e4e1f49ac26004d98c98ab, type: 3}
-    - {fileID: -976290314, guid: d8a33a0f48e4e1f49ac26004d98c98ab, type: 3}
-    - {fileID: -177067211, guid: d8a33a0f48e4e1f49ac26004d98c98ab, type: 3}
   m_AnimationClipSettings:
     serializedVersion: 2
     m_AdditiveReferencePoseClip: {fileID: 0}
     m_AdditiveReferencePoseTime: 0
     m_StartTime: 0
-    m_StopTime: 0.4
+    m_StopTime: 0.2
     m_OrientationOffsetY: 0
     m_Level: 0
     m_CycleOffset: 0
