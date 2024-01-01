@@ -461,8 +461,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 39cb36c03053fa6418645161701dfb79, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  rb2: {fileID: 0}
+  rb2: {fileID: 716708369}
   animator: {fileID: 716708372}
+  isAttacking: 0
   moveSpeed2: 0
   jumpForce2: 0
   GroundPoint: {fileID: 1157301892}
@@ -1891,6 +1892,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   rb: {fileID: 1459267838}
   animator: {fileID: 1459267840}
+  isAttacking: 0
   moveSpeed: 0
   jumpForce: 0
   GroundPoint: {fileID: 1353056462}

@@ -15,11 +15,12 @@ public class P2_Movement : MonoBehaviour {
     private void Awake() {
         rb2 = GetComponent<Rigidbody2D>();
         instance = this;
+        animator = GetComponent<Animator>();
     }
     void Start() {
         moveSpeed2 = 9.0f;
         jumpForce2 = 20.0f;
-        animator = GetComponent<Animator>();
+        
     }
 
     // Update is called once per frame
@@ -46,9 +47,6 @@ public class P2_Movement : MonoBehaviour {
 
         attack();        
 
-        //theRB.velocity = new Vector2(Input.GetAxisRaw("Horizontal") * moveSpeed, theRB.velocity.y);
-
-
          if (moveInput2 != 0){
             animator.SetBool("Iswalking", true);
                 if (moveInput2 > 0){
@@ -58,10 +56,9 @@ public class P2_Movement : MonoBehaviour {
                     gameObject.transform.localScale = new Vector3(-5, 5, 1);  
                 }
             
-        }
-        else{
+         }else{
             animator.SetBool("Iswalking", false);
-        }
+         }
         
         
     }
@@ -70,7 +67,7 @@ public class P2_Movement : MonoBehaviour {
 
     void attack()
     {
-        if (Input.GetKeyDown(KeyCode.Backspace) && !isAttacking)
+        if (Input.GetKeyDown(KeyCode.Comma) && !isAttacking)
         {
             isAttacking = true;
         }

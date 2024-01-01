@@ -16,12 +16,13 @@ public class P1_Movement : MonoBehaviour
     private void Awake() {
         rb = GetComponent<Rigidbody2D>();
         instance = this;
+        animator = GetComponent<Animator>();
     }
     void Start()
     {
         moveSpeed = 9.0f;
         jumpForce = 20.0f;
-        animator = GetComponent<Animator>();
+        
     }
 
     // Update is called once per frame
@@ -66,7 +67,7 @@ public class P1_Movement : MonoBehaviour
         
         void attack()
         {
-            if (Input.GetKeyDown(KeyCode.J) && !isAttacking)
+            if (Input.GetKeyDown(KeyCode.Z) && !isAttacking)
             {
                 isAttacking = true;
             }
